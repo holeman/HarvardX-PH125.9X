@@ -7,4 +7,4 @@ A machine learning algorithm to predict movie user ratings
 contents:
 ReadMe.md
 Report.pdf
-Script.r
+MovieLensCode.r
