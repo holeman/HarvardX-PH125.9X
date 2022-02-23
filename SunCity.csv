@@ -1,0 +1,936 @@
+year_sold,mo_sold,year_built,home_age,village,street,address,sqft_lot,sqft_living,sqft_mbr,sqft_garage,home_type,floorplan,floor,bedrooms,bathrooms,sale_price
+2020,5,2004,18,Village 1,Hay Wagon Court,101 Hay Wagon Court,7039,1531,156,420,Classic,Alpine,1,2,2,420
+2021,7,2004,18,Village 1,Haywagon Court,108 Haywagon Court,8760,1531,156,420,Classic,Alpine,1,2,2,508
+2021,10,2004,18,Village 1,Calistoga Lane,234 Calistoga Lane,7318,1549,156,420,Classic,Alpine,1,2,2,600
+2020,10,2004,18,Village 1,Wagon Wheel Lane,716 Wagon Wheel Lane,8934,1549,156,420,Classic,Alpine,1,2,2,475
+2020,2,2004,18,Village 1,Wagon Wheel Lane,698 Wagon Wheel Lane,4752,1190,168,400,Classic,Calaveras,1,2,2,395
+2021,8,2004,18,Village 1,Hay Wagon Court,105 Hay Wagon Court,5955,1673,178,438,Classic,Trinity,1,2,2,590
+2020,10,2005,17,Village 1,Wagon Wheel Lane,944 Wagon Wheel Lane,6242,1775,262,438,Classic,Tehama,1,3,2,500
+2020,5,2004,18,Village 2,Calistoga Lane,100 Calistoga Lane,7169,1531,156,420,Classic,Alpine,1,2,2,460
+2020,8,2004,18,Village 2,Coach Light Lane,153 Coach Light Lane,5811,1531,156,420,Classic,Alpine,1,2,2,465
+2021,11,2004,18,Village 2,Wagon Wheel Lane,679 Wagon Wheel Lane,6639,1190,168,400,Classic,Calaveras,1,2,2,490
+2019,5,2002,20,Village 2,Monument Court,2465 Monument Court,8354,1595,184,430,Classic,Quail Cove,1,2,2,550
+2021,10,2004,18,Village 2,Coach Light Lane,147 Coach Light Lane,5850,1673,178,438,Classic,Trinity,1,2,2,685
+2021,8,2004,18,Village 2,Surreytop Lane,208 Surreytop Lane,6023,1795,262,438,Classic,Tehama,1,3,2,570
+2021,6,2004,18,Village 2,Wagon Wheel Lane,722 Wagon Wheel Lane,8550,1795,262,438,Classic,Tehama,1,3,2,575
+2021,1,2005,17,Village 3,Stags Leap Lane,151 Stags Leap Lane,5484,1349,190,410,Classic,Mariposa,1,1,1,457
+2020,7,2005,17,Village 3,Truchard Lane,1355 Truchard Lane,5614,1549,156,420,Classic,Alpine,1,2,2,480
+2020,7,2005,17,Village 3,Stags Leap Lane,175 Stags Leap Lane,6163,1531,156,420,Classic,Alpine,1,2,2,443
+2021,1,2005,17,Village 3,Stags Leap Lane,235 Stags Leap Lane,6011,1549,156,420,Classic,Alpine,1,2,2,490
+2019,12,2005,17,Village 3,Stags Leap Lane,252 Stags Leap Lane,5745,1531,156,420,Classic,Alpine,1,2,2,458
+2019,2,2005,17,Village 3,Stags Leap Lane,264 Stags Leap Lane,5854,1549,156,420,Classic,Alpine,1,2,2,420
+2020,6,2005,17,Village 3,Stags Leap Lane,355 Stags Leap Lane,6137,1531,156,420,Classic,Alpine,1,2,2,435
+2020,7,2005,17,Village 3,Sawmill Lane,441 Sawmill Lane,5662,1549,156,420,Classic,Alpine,1,2,2,441
+2019,7,2005,17,Village 3,Stags Leap Lane,444 Stags Leap Lane,5488,1531,156,420,Classic,Alpine,1,2,2,510
+2021,10,2005,17,Village 3,Stags Leap Lane,343 Stags Leap Lane,4799,1190,168,400,Classic,Calaveras,1,2,2,499
+2020,12,2008,14,Village 3,Stags Leap Lane,432 Stags Leap Lane,4356,1195,168,400,Classic,Calaveras,1,2,2,412
+2019,6,2005,17,Village 3,Truchard Lane,1017 Truchard Lane,5610,1674,178,438,Classic,Trinity,1,2,2,500
+2021,1,2003,19,Village 3,Stags Leap Lane,213 Stags Leap Lane,17371,1775,262,438,Classic,Tehama,1,3,2,520
+2020,2,2003,19,Village 4,Saddlehorn Loop,260 Saddlehorn Loop,4791,1020,190,410,Classic,Mariposa,1,1,1,365
+2020,9,2003,19,Village 4,Saddlehorn Loop,248 Saddlehorn Loop,6398,1148,180,436,Classic,Millpond,1,2,2,405
+2019,7,2003,19,Village 4,Stockman Lane,440 Stockman Lane,5893,1138,180,436,Classic,Millpond,1,2,2,372
+2021,6,2003,19,Village 4,Stockman Lane,580 Stockman Lane,5587,1144,180,436,Classic,Millpond,1,2,2,467
+2021,8,2004,18,Village 4,Longhorn Lane,1014 Longhorn Lane,6007,1549,156,420,Classic,Alpine,1,2,2,600
+2021,12,2003,19,Village 4,Stockman Lane,470 Stockman Lane,5619,1298,203,438,Classic,Bridgegate,1,2,2,505
+2021,2,2003,19,Village 4,Stockman Lane,490 Stockman Lane,8673,1830,192,420,Classic,Echo Ridge,1,2,2,545
+2021,12,2003,19,Village 4,Stockman Lane,665 Stockman Lane,4330,1020,190,410,Classic,Mariposa,1,2,2,477
+2021,12,2003,19,Village 4,Stockman Lane,675 Stockman Lane,4326,1130,190,410,Classic,Mariposa,1,2,2,465
+2021,8,2003,19,Village 4,Stockman Lane,610 Stockman Lane,7039,1515,161,436,Classic,Pine Hill,1,2,2,510
+2021,12,2003,19,Village 4,Stockman Lane,810 Stockman Lane,7863,1515,161,436,Classic,Pine Hill,1,2,2,575
+2019,4,2003,19,Village 4,Stockman Lane,525 Stockman Lane,7048,1551,184,430,Classic,Quail Cove,1,2,2,469
+2020,4,2004,18,Village 4,Longhorn Lane,1197 Longhorn Lane,6120,1673,178,438,Classic,Trinity,1,2,2,470
+2020,10,2003,19,Village 5,Rustic Ranch Lane,716 Rustic Ranch Lane,5662,1530,156,420,Classic,Alpine,1,2,2,450
+2020,6,2003,19,Village 5,Rustic Ranch Lane,812 Rustic Ranch Lane,5680,1549,156,420,Classic,Alpine,1,2,2,450
+2019,1,2002,20,Village 6,Lariat Loop,286 Lariat Loop,5932,1120,180,436,Classic,Millpond,1,2,2,375
+2019,1,2001,21,Village 7,Bloomfield Ct,207 Bloomfield Ct,7156,900,154,210,Classic,Woodleaf,1,1,2,325
+2019,1,2001,21,Village 7,Bloomfield Ct,240 Bloomfield Ct,5915,1322,203,438,Classic,Bridgegate,1,2,2,429
+2020,9,2001,21,Village 7,Northfield Lane,512 Northfield Lane,5575,1298,203,438,Classic,Bridgegate,1,2,2,418
+2019,2,2001,21,Village 7,Poppyfield Court,403 Poppyfield Court,8258,1704,192,420,Classic,Echo Ridge,1,2,2,575
+2019,8,2001,21,Village 7,Poppyfield Court,443 Poppyfield Court,7527,1808,192,420,Classic,Echo Ridge,1,2,2,430
+2019,5,2001,21,Village 7,Northfield Lane,724 Northfield Lane,7161,1822,192,420,Classic,Echo Ridge,1,2,2,565
+2021,5,2001,21,Village 7,Poppyfield Court,423 Poppyfield Court,6843,1844,242,545,Classic,Orchard Crest,1,2,2,562
+2021,8,2001,21,Village 7,Shadow Glen Lane,1150 Shadow Glen Lane,6699,1515,161,436,Classic,Pine Hill,1,2,2,530
+2020,6,2001,21,Village 7,Shadow Glen Lane,1170 Shadow Glen Lane,6307,1515,163,436,Classic,Pine Hill,1,2,2,435
+2019,2,2001,21,Village 7,Northfield Court,135 Northfield Court,8725,1515,163,436,Classic,Pine Hill,1,2,2,486
+2021,2,2001,21,Village 7,Northfield Court,135 Northfield Court,8724,1515,161,436,Classic,Pine Hill,1,2,2,565
+2020,9,2001,21,Village 7,Northfield Lane,536 Northfield Lane,6446,1515,163,436,Classic,Pine Hill,1,2,2,475
+2021,7,2001,21,Village 7,Northfield Court,125 Northfield Court,7375,1595,184,430,Classic,Quail Cove,1,2,2,575
+2020,11,2001,21,Village 7,Shadow Glen Lane,1160 Shadow Glen Lane,6359,1155,203,438,Classic,Sequoia,1,2,2,414
+2021,7,2001,21,Village 8,Bayfield Court,475 Bayfield Court,6172,1120,180,436,Classic,Millpond,1,2,2,515
+2019,4,2001,21,Village 8,Lakefield Court,122 Lakefield Court,8102,1844,242,545,Classic,Orchard Crest,1,2,2,570
+2019,12,2001,21,Village 8,Lakefield Court,122 Lakefield Court,8102,1854,242,545,Classic,Orchard Crest,1,2,2,592
+2019,7,2001,21,Village 8,Waterfield Court,855 Waterfield Court,8916,1873,242,545,Classic,Orchard Crest,1,2,2,409
+2020,11,2001,21,Village 8,Lilypond Lane,380 Lilypond Lane,6229,1539,163,436,Classic,Pine Hill,1,2,2,435
+2020,6,2001,21,Village 8,Waterfield Court,755 Waterfield Court,8133,1515,163,436,Classic,Pine Hill,1,2,2,440
+2021,8,2001,21,Village 8,Waterfield Court,755 Waterfield Court,8133,1515,161,436,Classic,Pine Hill,1,2,2,548
+2019,2,2001,21,Village 8,Lilypond Lane,385 Lilypond Lane,6433,1595,184,430,Classic,Quail Cove,1,2,2,449
+2020,11,2001,21,Village 8,Lilypond Lane,385 Lilypond Lane,6433,1595,184,430,Classic,Quail Cove,1,2,2,479
+2019,8,2001,21,Village 9,Gold Nugget Circle,967 Gold Nugget Circle,8032,1705,192,420,Classic,Echo Ridge,1,2,2,535
+2019,5,2001,21,Village 9,Gold Strike Court,654 Gold Strike Court,8415,1870,184,430,Classic,Quail Cove,1,2,2,525
+2019,4,2004,18,Village 10,Segolilly Lane,1168 Segolily Lane,6682,1531,156,420,Classic,Alpine,1,2,2,482
+2021,1,2004,18,Village 10,Cherry Blossom Lane,1206 Cherry Blossom Lane,5523,1549,156,420,Classic,Alpine,1,2,2,540
+2021,3,2004,18,Village 10,Hawthorne Lane,1279 Hawthorne Lane,5868,1549,156,420,Classic,Alpine,1,2,2,525
+2020,11,2004,18,Village 10,Tiger Lily Lane,1279 Tiger Lily Lane,1518,1531,156,420,Classic,Alpine,1,2,2,490
+2019,4,2004,18,Village 10,Olema Place,418 Olema Place,7496,1531,156,420,Classic,Alpine,1,2,2,499
+2020,11,2004,18,Village 10,Violet Lane,856 Violet Lane,5691,1531,156,420,Classic,Alpine,1,2,2,456
+2021,10,2004,18,Village 10,Cherry Blossom Lane,1227 Cherry Blossom Lane,4308,1190,168,400,Classic,Calaveras,1,2,2,504
+2021,12,2004,18,Village 10,Cherry Blossom Lane,1238 Cherry Blossom Lane,5423,1673,178,438,Classic,Trinity,1,2,2,610
+2021,11,2004,18,Village 10,Mariemont Court,202 Mariemont Court,7709,1674,178,438,Classic,Trinity,1,2,2,637
+2021,5,1999,23,Village 10,Violet Lane,731 Violet Lane,7759,1674,178,438,Classic,Trinity,1,2,2,638
+2020,4,2004,18,Village 10,Tiger Lily Lane,1164 Tiger Lily Ln,5257,1795,262,438,Classic,Tehama,1,3,2,520
+2020,5,2004,18,Village 10,Segolilly Lane,1173 Segolily Lane,5614,1793,262,438,Classic,Tehama,1,3,2,463
+2019,2,2004,18,Village 10,Hawthrone Lane,1215 Hawthrone Lane,5248,1795,262,438,Classic,Tehama,1,3,2,500
+2020,3,2004,18,Village 10,Tiger Lily Lane,1267 Tiger Lily Ln,6538,1795,262,438,Classic,Tehama,1,3,2,435
+2021,11,2004,18,Village 10,Cherry Blossom Lane,1286 Cherry Blossom Lane,6255,1795,262,438,Classic,Tehama,1,3,2,600
+2021,7,2004,18,Village 10,Cherry Blosssom Lane,1294 Cherry Blosssom Lane,6167,1795,262,438,Classic,Tehama,1,3,2,606
+2019,7,2004,18,Village 10,Marigold Lane,391 Marigold Lane,6534,1795,262,438,Classic,Tehama,1,3,2,477
+2019,6,2002,20,Village 11,Clairmont Lane,1505 Clairmont Lane,7910,1515,163,436,Classic,Pine Hill,1,2,2,450
+2019,11,2002,20,Village 11,Yerington Place,607 Yerington Place,8049,1539,163,436,Classic,Pine Hill,1,2,2,506
+2019,5,1999,23,Village 13,Meadowhill Court,882 Meadowhill Court,6664,900,154,210,Classic,Woodleaf,1,1,2,366
+2019,5,1999,23,Village 13,Meadowhill Court,874 Meadowhill Court,6812,1138,180,436,Classic,Millpond,1,2,2,419
+2021,1,1999,23,Village 13,Meadowhill Court,883 Meadowhill Court,6824,1138,183,436,Classic,Millpond,1,2,2,438
+2020,11,1999,23,Village 13,Meadowhill Court,889 Meadowhill Court,10018,1138,180,436,Classic,Millpond,1,2,2,450
+2021,6,1999,23,Village 13,Strolling Hills Lane,1378 Strolling Hills Lane,6082,1298,192,420,Classic,Bridgegate,1,2,2,575
+2021,8,1999,23,Village 13,Greenridge Court,876 Greenridge Court,5898,1298,192,420,Classic,Bridgegate,1,2,2,565
+2019,2,2002,20,Village 13,Strolling Hills Lane,1350 Strolling Hills Lane,7021,1774,163,436,Classic,Pine Hill,1,2,2,595
+2020,8,2000,22,Villge 14,Yosemite Lane,950 Yosemite Lane,7413,1681,192,420,Classic,Echo Ridge,1,2,2,562
+2021,4,2000,22,Villge 14,El Capitan Court,820 El Capitan Court,73290,2090,242,545,Classic,Orchard Crest,1,2,2,659
+2019,4,2000,22,Villge 14,Tioga Lane,1040 Tioga Lane,7327,1515,163,436,Classic,Pine Hill,1,2,2,460
+2019,4,2000,22,Villge 14,Tioga Lane,750 Tioga Lane,8154,1539,163,436,Classic,Pine Hill,1,2,2,405
+2021,10,2000,22,Villge 14,Tioga Lane,780 Tioga Lane,5676,1515,161,436,Classic,Pine Hill,1,2,2,552
+2019,4,2000,22,Village 15,Blossom Lane,777 Blossom Lane,7936,1322,203,438,Classic,Bridgegate,1,2,2,450
+2021,8,2000,22,Village 15,Blossom Lane,777 Blossom Lane,7937,1322,192,420,Classic,Bridgegate,1,2,2,530
+2020,10,1999,23,Village 15,Dogwood Loop,945 Dogwood Loop,6263,1322,203,438,Classic,Bridgegate,1,2,2,425
+2020,9,1999,23,Village 15,Dogwood Loop,995 Dogwood Loop,6669,1322,203,438,Classic,Bridgegate,1,2,2,435
+2021,6,1999,23,Village 15,Dogwood Loop,865 Dogwood Loop,7353,1515,163,436,Classic,Pine Hill,1,2,2,540
+2019,2,2000,22,Village 15,Blossom Lane,648 Blossom Lane,6930,1595,184,430,Classic,Quail Cove,1,2,2,460
+2019,4,2000,22,Village 16,Greenwood Court,1165 Greenwood Court,9182,1457,203,438,Classic,Bridgegate,1,2,2,464
+2019,6,1999,23,Village 16,Silver Fork Court,1240 Silver Fork Court,6520,1466,203,438,Classic,Bridgegate,1,2,2,460
+2019,7,1999,23,Village 16,Hackberry Lane,1613 Hackberry Lane,6250,1322,203,438,Classic,Bridgegate,1,2,2,400
+2020,9,1999,23,Village 16,Hackberry Lane,1633 Hackberry Lane,5279,1322,203,438,Classic,Bridgegate,1,2,2,405
+2020,8,1999,23,Village 16,Magnolia Lane,1025 Magnolia Lane,7048,1844,242,545,Classic,Orchard Crest,1,2,2,530
+2021,1,2000,22,Village 16,Hackberry Lane,1647 Hackberry Lane,5492,1515,163,436,Classic,Pine Hill,1,2,2,509
+2020,9,1999,23,Village 16,Stone Pine Lane,1010 Stone Pine Lane,8437,1570,184,430,Classic,Quail Cove,1,2,2,480
+2020,8,1999,23,Village 16,Stone Pine Lane,1189 Stone Pine Lane,9561,1593,184,430,Classic,Quail Cove,1,2,2,539
+2020,12,2003,19,Village 17,Lake Crest Court,120 Lake Crest Court,4604,1190,168,400,Classic,Calaveras,1,2,2,427
+2020,7,2003,19,Village 17,Lake Crest Court,160 Lake Crest Court,4403,1190,168,400,Classic,Calaveras,1,2,2,415
+2020,11,2003,19,Village 17,Lake Crest Lane,180 Lake Crest Lane,11800,1190,168,400,Classic,Calaveras,1,2,2,430
+2020,6,2003,19,Village 17,Lake Crest Lane,925 Lake Crest Lane,5662,1190,168,400,Classic,Calaveras,1,2,2,400
+2019,9,1999,23,Village 18,Sun Valley Loop,1210 Sun Valley Loop,7339,1823,192,420,Classic,Echo Ridge,1,2,2,610
+2021,12,2003,19,Village 18,Fairview Ct,1107 Fairview Ct,5798,1361,168,400,Classic,Madera,1,2,2,520
+2020,7,2002,20,Village 19,Winding Way,2272 Winding Way,4743,1020,190,410,Classic,Mariposa,1,1,1,405
+2019,6,2002,20,Village 19,Winding Way,2357 Winding Way,4791,1020,190,410,Classic,Mariposa,1,1,1,380
+2020,7,2001,21,Village 19,Slawson Lane,894 Slawson Lane,6891,900,154,210,Classic,Woodleaf,1,1,2,345
+2021,6,2000,22,Village 19,Andover Lane,1672 Andover Lane,5924,1161,180,436,Classic,Millpond,1,2,2,505
+2020,12,2001,21,Village 19,Monument Drive,1915 Monument Drive,6237,1186,180,436,Classic,Millpond,1,2,2,385
+2020,6,2001,21,Village 19,Anton Lane,850 Anton Lane,9086,1184,180,436,Classic,Millpond,1,2,2,379
+2021,2,2001,21,Village 19,Andover Lane,1655 Andover Lane,7815,1322,192,420,Classic,Bridgegate,1,2,2,448
+2021,6,2001,21,Village 19,Beckwith Lane,1658 Beckwith Lane,6268,1298,192,420,Classic,Bridgegate,1,2,2,487
+2021,12,2000,22,Village 19,Monument Drive,1669 Monument Drive,5911,1322,203,438,Classic,Bridgegate,1,2,2,560
+2019,2,2000,22,Village 19,Monument Drive,1861 Monument Drive,7039,1298,203,438,Classic,Bridgegate,1,2,2,450
+2020,8,2001,21,Village 19,Winding Way,1767 Winding Way,9517,1681,192,420,Classic,Echo Ridge,1,2,2,490
+2020,6,2001,21,Village 19,Monument Drive,1813 Monument Drive,8842,1728,192,420,Classic,Echo Ridge,1,2,2,500
+2020,10,2001,21,Village 19,Winding Way,2045 Winding Way,7670,1704,192,420,Classic,Echo Ridge,1,2,2,519
+2021,5,2001,21,Village 19,Winding Way,2129 Winding Way,9849,1823,192,420,Classic,Echo Ridge,1,2,2,576
+2021,7,2002,20,Village 19,Winding Way,2333 Winding Way,7736,1705,192,420,Classic,Echo Ridge,1,2,2,545
+2021,11,2000,22,Village 19,Gardner Court,925 Gardner Court,12197,1822,192,420,Classic,Echo Ridge,1,2,2,751
+2019,11,2004,18,Village 19,Gadwell Court,520 Gadwell Court,6229,1361,168,400,Classic,Madera,1,2,2,435
+2020,11,2004,18,Village 19,Gadwell Court,521 Gadwell Court,6403,1343,168,400,Classic,Madera,1,2,2,435
+2021,6,2001,21,Village 19,Andover Lane,1831 Andover Lane,10890,2065,242,545,Classic,Orchard Crest,1,2,2,734
+2019,4,2002,20,Village 19,Monument Drive,2273 Monument Drive,7252,1844,242,545,Classic,Orchard Crest,1,2,2,505
+2019,2,2001,21,Village 19,Slawson Lane,889 Slawson Lane,7418,1873,242,545,Classic,Orchard Crest,1,2,2,499
+2020,9,2001,21,Village 19,Anton Court,910 Anton Court,13900,1873,242,545,Classic,Orchard Crest,1,2,2,510
+2020,8,2001,21,Village 19,Monument Drive,1581 Monument Drive,6407,1515,163,436,Classic,Pine Hill,1,2,2,452
+2021,11,2001,21,Village 19,Beckwith Lane,1850 Beckwith Lane,6007,1515,161,436,Classic,Pine Hill,1,2,2,569
+2020,3,2001,21,Village 19,Winding Way,1948 Winding Way,5479,1539,163,436,Classic,Pine Hill,1,2,2,466
+2020,10,2001,21,Village 19,Monument Drive,1951 Monument Drive,6712,1515,163,436,Classic,Pine Hill,1,2,2,462
+2021,12,2002,20,Village 19,Winding Way,2332 Winding Way,5650,1481,161,436,Classic,Pine Hill,1,2,2,535
+2020,3,2002,20,Village 19,Winding Way,2381 Winding Way,6616,1515,163,436,Classic,Pine Hill,1,2,2,472
+2019,8,2002,20,Village 19,Winding Way,2417 Winding Way,7623,1515,163,436,Classic,Pine Hill,1,2,2,460
+2019,8,2002,20,Village 19,Winding Way,2489 Winding Way,7305,1515,163,436,Classic,Pine Hill,1,2,2,470
+2019,7,2001,21,Village 19,Linnet Court,955 Linnet Court,11300,1539,163,436,Classic,Pine Hill,1,2,2,480
+2021,5,2002,20,Village 19,Winding Way,2392 Winding Way,6215,1571,184,430,Classic,Quail Cove,1,2,2,599
+2019,4,2001,21,Village 19,Winding Way,1937 Winding Way,5802,1130,203,438,Classic,Sequoia,1,2,2,375
+2020,7,2002,20,Village 19,Winding Way,2237 Winding Way,4922,1155,203,438,Classic,Sequoia,1,2,2,390
+2020,8,2002,20,Village 19,Winding Way,2369 Winding Way,6046,1130,203,438,Classic,Sequoia,1,2,2,375
+2020,6,2002,20,Village 19,Winding Way,2429 Winding Way,6050,1130,203,438,Classic,Sequoia,1,2,2,369
+2020,11,2004,18,Village 19,Gadwell Court,510 Gadwell Court,9496,1655,178,438,Classic,Trinity,1,2,2,484
+2020,10,2001,21,Village 20,Sun Flare Court,1111 Sun Flare Ct,6477,900,154,210,Classic,Woodleaf,1,1,2,385
+2020,3,2001,21,Village 20,Alpenglow Lane,1896 Alpenglow Ln,7122,1322,203,438,Classic,Bridgegate,1,2,2,444
+2021,3,2001,21,Village 20,Sun Flare Court,1130 Sun Flare Court,7462,1681,192,420,Classic,Echo Ridge,1,2,2,525
+2021,6,2001,21,Village 20,Newhaven Court,1132 Newhaven Court,7373,1705,192,420,Classic,Echo Ridge,1,2,2,555
+2021,10,2001,21,Village 20,Starview Lane,1860 Starview Lane,10424,1539,161,436,Classic,Pine Hill,1,2,2,600
+2020,11,2001,21,Village 20,Alpenglow Lane,1901 Alpenglow Lane,5719,1539,163,436,Classic,Pine Hill,1,2,2,495
+2020,1,2001,21,Village 20,Starview Lane,1910 Starview Lane,6198,1549,163,436,Classic,Pine Hill,1,2,2,469
+2020,12,2002,20,Village 21,Hidden Hills Lane,2440 Hidden Hills Lane,7326,1823,192,420,Classic,Echo Ridge,1,2,2,600
+2021,1,2002,20,Village 21,Granite Lane,2484 Granite Lane,7479,1873,242,545,Classic,Orchard Crest,1,2,2,545
+2019,2,2002,20,Village 21,Granite Court,930 Granite Court,9700,1873,242,545,Classic,Orchard Crest,1,2,2,566
+2020,4,2002,20,Village 21,Hidden Hills Lane,2380 Hidden Hills Ln,5915,1515,163,436,Classic,Pine Hill,1,2,2,575
+2019,9,2001,21,Village 21,Granite Falls Lane,877 Granite Falls Lane,6033,1491,163,436,Classic,Pine Hill,1,2,2,496
+2019,12,2002,20,Village 21,Granite Lane,2456 Granite Lane,7466,1595,184,430,Classic,Quail Cove,1,2,2,530
+2020,7,2002,20,Village 21,Granite Lane,2498 Granite Lane,7840,1595,184,430,Classic,Quail Cove,1,2,2,540
+2021,11,2002,20,Village 21,Boulder Lane,875 Boulder Lane,10700,1571,184,430,Classic,Quail Cove,1,2,2,651
+2020,7,2002,20,Villagre 22,Hillhaven Lane,1252 Hillhaven Lane,5166,1020,190,410,Classic,Mariposa,1,1,1,370
+2020,7,2002,20,Villagre 22,Hillhaven Lane,1256 Hillhaven Lane,5357,1020,190,410,Classic,Mariposa,1,1,1,375
+2019,12,2002,20,Villagre 22,Woodacre Lane,2555 Woodacre Lane,5715,1322,203,438,Classic,Bridgegate,1,2,2,450
+2019,2,2002,20,Villagre 22,Wooodacre Lane,2639 Wooodacre Lane,5919,1322,203,438,Classic,Bridgegate,1,2,2,434
+2020,8,2002,20,Villagre 22,Woodacre Lane,2747 Woodacre Lane,6050,1322,203,438,Classic,Bridgegate,1,2,2,415
+2021,7,2002,20,Villagre 22,Monument Drive,2152 Monument Drive,11761,1704,192,420,Classic,Echo Ridge,1,2,2,590
+2020,4,2002,20,Villagre 22,Hillhaven Lane,1295 Hillhaven Ln,9143,1491,163,436,Classic,Pine Hill,1,2,2,500
+2021,11,2002,20,Villagre 22,Monument Drive,2153 Monument Drive,7344,1539,161,436,Classic,Pine Hill,1,2,2,582
+2021,5,2002,20,Villagre 22,Woodacre Lane,2712 Woodacre Lane,4447,1130,203,438,Classic,Sequoia,1,2,2,455
+2020,12,2002,20,Village 23,Fountain Hill Loop,2480 Fountain Hill Loop,5854,1120,180,436,Classic,Millpond,1,2,2,365
+2021,3,2002,20,Village 23,Fountain Hill Place,2335 Fountain Hill Place,8433,1809,192,420,Classic,Echo Ridge,1,2,2,675
+2020,4,2002,20,Village 23,Fountain Hill Place,2310 Fountain Hill Pl,8276,2135,163,436,Classic,Pine Hill,1,2,2,525
+2020,6,2002,20,Village 23,Fountain Hill Loop,2450 Fountain Hill Loop,7919,1595,184,430,Classic,Quail Cove,1,2,2,439
+2021,5,2003,19,Village 24,Mockingbird Lane,1446 Mockingbird Lane,6439,1549,156,420,Classic,Alpine,1,2,2,585
+2019,1,2004,18,Village 24,Grand Pheasant Ln,1555 Grand Pheasant Ln,8746,1531,156,420,Classic,Alpine,1,2,2,489
+2021,8,2004,18,Village 24,Grand Pheasant Lane,1598 Grand Pheasant Lane,6939,1531,156,420,Classic,Alpine,1,2,2,587
+2021,4,2003,19,Village 24,Quail Covey Court,200 Quail Covey Court,6929,1531,156,420,Classic,Alpine,1,2,2,523
+2020,6,2003,19,Village 24,Quail Covey Court,201 Quail Covey Court,8646,1531,156,420,Classic,Alpine,1,2,2,450
+2020,10,2003,19,Village 24,Kingfisher Lane,2368 Kingfisher Lane,5985,1549,156,420,Classic,Alpine,1,2,2,515
+2019,7,2004,18,Village 24,Blue Heron Loop,2648 Blue Heron Loop,7579,1549,156,420,Classic,Alpine,1,2,2,523
+2021,11,2003,19,Village 24,Phoebe Court,308 Phoebe Court,6847,1531,156,420,Classic,Alpine,1,2,2,570
+2021,3,2003,19,Village 24,Phoebe Court,310 Phoebe Court,7649,1531,156,420,Classic,Alpine,1,2,2,525
+2021,1,2003,19,Village 24,Plover Court,400 Plover Court,7520,1549,156,420,Classic,Alpine,1,2,2,480
+2019,1,2003,19,Village 24,Plover Court,406 Plover Ct,6346,1531,156,420,Classic,Alpine,1,2,2,458
+2021,4,2003,19,Village 24,Oriole Court,502 Oriole Court,7256,1531,156,420,Classic,Alpine,1,2,2,585
+2021,7,2003,19,Village 24,Merlin Court,602 Merlin Court,6233,1549,156,420,Classic,Alpine,1,2,2,600
+2019,9,2003,19,Village 24,Quail Covey Court,206 Quail Covey Court,4791,1190,168,400,Classic,Calaveras,1,2,2,419
+2020,9,2003,19,Village 24,Quail Covey Court,208 Quail Covey Court,4839,1190,168,400,Classic,Calaveras,1,2,2,400
+2021,8,2004,18,Village 24,Kingfisher Lane,2798 Kingfisher Lane,4809,1195,168,400,Classic,Calaveras,1,2,2,501
+2020,11,2004,18,Village 24,Blue Heron Loop,2876 Blue Heron Loop,7082,1195,168,400,Classic,Calaveras,1,2,2,420
+2021,11,2003,19,Village 24,Plover Court,402 Plover Court,5191,1190,168,400,Classic,Calaveras,1,2,2,500
+2020,3,2003,19,Village 24,Plover Court,402 Plover Ct,5192,1190,168,400,Classic,Calaveras,1,2,2,405
+2020,8,2004,18,Village 24,Blue Heron Loop,2732 Blue Heron Loop,6218,1361,168,400,Classic,Madera,1,2,2,445
+2021,12,2003,19,Village 24,Plover Court,404 Plover Court,6521,1361,156,420,Classic,Madera,1,2,2,560
+2019,7,2004,18,Village 24,Blue Heron Loop,2415 Blue Heron Loop,6115,1673,178,438,Classic,Trinity,1,2,2,499
+2019,11,2004,18,Village 24,Blue Heron Loop,2715 Blue Heron Loop,7501,1673,178,438,Classic,Trinity,1,2,2,495
+2021,6,2004,18,Village 24,Grand Pheasant Lane,1651 Grand Pheasant Lane,5323,1367,168,400,Classic,Madera,1,3,2,526
+2020,3,2004,18,Village 24,Grand Pheasant Ln,1627 Grand Pheasant Ln,5610,1795,262,438,Classic,Tehama,1,3,2,525
+2020,8,2004,18,Village 24,Grand Pheasant Lane,1766 Grand Pheasant Lane,5484,1775,262,438,Classic,Tehama,1,3,2,470
+2020,9,2004,18,Village 24,Wabler Lane,2646 Wabler Lane,5279,1775,262,438,Classic,Tehama,1,3,2,498
+2019,8,2005,17,Village 24,Blue Heron Loop,2859 Blue Heron Loop,5462,1795,262,438,Classic,Tehama,1,3,2,487
+2021,12,2003,19,Village 24,Blue Heron Loop,2907 Blue Heron Loop,5824,1777,262,438,Classic,Tehama,1,3,2,538
+2020,12,2005,17,Village 25,Avian Hill Place,1589 Avian Hill Place,6285,1549,156,420,Classic,Alpine,1,2,2,500
+2020,7,2005,17,Village 25,Walden View Lane,2334 Walden View Lane,6107,1775,262,438,Classic,Tehama,1,3,2,522
+2021,5,2003,19,Village 26,Echo Lane,1921 Echo Lane,8411,1531,156,420,Classic,Alpine,1,2,2,590
+2020,9,2003,19,Village 26,Tallac Lane,1433 Tallac Lane,7078,1298,203,438,Classic,Bridgegate,1,2,2,450
+2020,11,2003,19,Village 26,Emerald Lane,1440 Emerald Lane,5662,1322,203,438,Classic,Bridgegate,1,2,2,450
+2021,11,2003,19,Village 26,Glenbrook Lane,2040 Glenbrook Lane,7057,1322,192,420,Classic,Bridgegate,1,2,2,562
+2019,12,2003,19,Village 26,Tallac Lane,1300 Tallac Lane,8899,1681,192,420,Classic,Echo Ridge,1,2,2,495
+2019,4,2003,19,Village 26,Glenbrook Lane,1939 Glenbrook Lane,9382,1681,192,420,Classic,Echo Ridge,1,2,2,499
+2021,12,2000,22,Village  28,Barnswood Loop,1140 Barnswood Loop,6656,1161,180,436,Classic,Millpond,1,2,2,483
+2021,11,2000,22,Village  28,Barnswood Loop,1129 Barnswood Loop,6186,1322,192,420,Classic,Bridgegate,1,2,2,473
+2021,12,2000,22,Village 29,Huntsman Court,405 Huntsman Court,6942,1322,203,438,Classic,Bridgegate,1,2,2,244
+2021,10,2000,22,Village 29,Rose Bouquet Drive,1417 Rose Bouquet Drive,6186,1515,161,436,Classic,Pine Hill,1,2,2,700
+2021,4,2000,22,Village 29,Rose Bouquet Drive,1458 Rose Bouquet Drive,5943,1539,163,436,Classic,Pine Hill,1,2,2,551
+2019,12,2001,21,Village 29,Rose Bouquet Drive,1265 Rose Bouquet Drive,7936,1571,184,430,Classic,Quail Cove,1,2,2,497
+2020,9,2000,22,Village 29,Shepherds Court,320 Shepherds Court,8006,1571,184,430,Classic,Quail Cove,1,2,2,486
+2020,4,2000,22,Village 29,Farmgate Lane,1760 Farmgate Ln,10275,1515,163,436,Classic,Pine Hill,1,3,2,445
+2021,3,2000,22,Village 30,Sweet Juliet Lane,1411 Sweet Juliet Lane,7012,1161,180,436,Classic,Millpond,1,2,2,428
+2020,9,2000,22,Village 30,Sweet Juliet Lane,1430 Sweet Juliet Lane,5967,1161,180,436,Classic,Millpond,1,2,2,380
+2019,11,2000,22,Village 30,Mary Rose Lane,1665 Mary Rose Lane,6364,1138,180,436,Classic,Millpond,1,2,2,435
+2021,12,2001,21,Village 30,Mary Rose Lane,1825 Mary Rose Lane,6199,1161,183,436,Classic,Millpond,1,2,2,495
+2021,12,2000,22,Village 30,Perdita Lane,1163 Perdita Lane,6303,1322,203,438,Classic,Bridgegate,1,2,2,557
+2020,2,2000,22,Village 30,Perdita Lane,1442 Perdita Lane,5919,1322,203,438,Classic,Bridgegate,1,2,2,418
+2021,8,2000,22,Village 30,Sweet Juliet Lane,1621 Sweet Juliet Lane,7223,1322,192,420,Classic,Bridgegate,1,2,2,527
+2021,2,2000,22,Village 30,Sweet Juliet Lane,1635 Sweet Juliet Lane,7710,1298,192,420,Classic,Bridgegate,1,2,2,455
+2021,7,2000,22,Village 30,Leander Lane,1743 Leander Lane,6865,1322,192,420,Classic,Bridgegate,1,2,2,542
+2020,7,2001,21,Village 30,Emily Lane,1804 Emily Lane,6534,1322,203,438,Classic,Bridgegate,1,2,2,430
+2021,3,2001,21,Village 30,Mary Rose Lane,1805 Mary Rose Lane,6411,1322,192,420,Classic,Bridgegate,1,2,2,440
+2021,3,2001,21,Village 30,Mary Rose Lane,1940 Mary Rose Lane,6926,1298,192,420,Classic,Bridgegate,1,2,2,449
+2019,12,2001,21,Village 30,Cottage Rose Lane,1751 Cottage Rose Lane,10724,1705,192,420,Classic,Echo Ridge,1,2,2,505
+2020,9,2001,21,Village 30,Emily Lane,1759 Emily Lane,8550,1806,192,420,Classic,Echo Ridge,1,2,2,500
+2020,9,2000,22,Village 30,Perdita Lane,1230 Perdita Lane,8759,1515,163,436,Classic,Pine Hill,1,2,2,508
+2020,4,2000,22,Village 30,Sweet Juliet Lane,1369 Sweet Juliet Ln,10785,1515,163,436,Classic,Pine Hill,1,2,2,525
+2019,4,2000,22,Village 30,Perdita Lane,1382 Perdita Lane,6947,1491,163,436,Classic,Pine Hill,1,2,2,455
+2019,11,2000,22,Village 30,Sweet Juliet Lane,1383 Sweet Juliet Lane,7840,1515,163,436,Classic,Pine Hill,1,2,2,479
+2020,12,2000,22,Village 30,Sweet Juliet Lane,1453 Sweet Juliet Lane,9609,1515,163,436,Classic,Pine Hill,1,2,2,455
+2019,11,2000,22,Village 30,Sweet Juliet Lane,1593 Sweet Juliet Lane,6634,1515,163,436,Classic,Pine Hill,1,2,2,452
+2020,3,2000,22,Village 30,Gingersnap Lane,1605 Gingersnap Ln,6987,1539,163,436,Classic,Pine Hill,1,2,2,480
+2020,7,2001,21,Village 30,Mary Rose Lane,1665 Mary Rose Lane,7570,1491,163,436,Classic,Pine Hill,1,2,2,426
+2019,8,2001,21,Village 30,Emily Lane,1784 Emily Lane,7248,1515,163,436,Classic,Pine Hill,1,2,2,490
+2021,8,2001,21,Village 30,Mary Rose Lane,1815 Mary Rose Lane,6155,1539,161,436,Classic,Pine Hill,1,2,2,575
+2021,8,2000,22,Village 30,Emily Lane,1829 Emily Lane,6187,1539,161,436,Classic,Pine Hill,1,2,2,626
+2020,5,2000,22,Village 30,Leander Lane,1833 Leander Lane,6098,1515,163,436,Classic,Pine Hill,1,2,2,449
+2019,7,2001,21,Village 30,Emily Lane,1904 Emily Lane,7540,1491,163,436,Classic,Pine Hill,1,2,2,444
+2021,6,2001,21,Village 30,Mary Rose Lane,1925 Mary Rose Lane,6708,1539,163,436,Classic,Pine Hill,1,2,2,600
+2021,3,2000,22,Village 30,Dapple Dawn Lane,1493 Dapple Dawn Lane,9021,1595,184,430,Classic,Quail Cove,1,2,2,575
+2021,4,2000,22,Village 30,Gingersnap Lane,1808 Gingersnap Lane,6991,1571,184,430,Classic,Quail Cove,1,2,2,612
+2020,11,2000,22,Village 30,Sweet Juliet Lane,1397 Sweet Juliet Lane,7339,1804,163,436,Classic,Pine Hill,1,3,3,590
+2019,9,2003,19,Village 31,Prairie View Lane,2221 Prairie View Lane,6050,1020,190,410,Classic,Mariposa,1,1,1,360
+2021,10,2003,19,Village 31,Prairie View Lane,2221 Prairie View Lane,6050,1020,190,410,Classic,Mariposa,1,1,1,461
+2020,6,2002,20,Village 31,Prairie View Court,105 Prairie View Court,8407,1298,203,438,Classic,Bridgegate,1,2,2,423
+2020,12,2003,19,Village 31,Graeagle Lane,1845 Graeagle Lane,5693,1322,203,438,Classic,Bridgegate,1,2,2,415
+2019,7,2003,19,Village 31,Graeagle Lane,1960 Graeagle Lane,7801,1322,203,438,Classic,Bridgegate,1,2,2,449
+2019,6,2003,19,Village 31,Prairie View Lane,2012 Prairie View Lane,5532,1322,203,438,Classic,Bridgegate,1,2,2,422
+2019,7,2003,19,Village 31,Hawk Hill Lane,1957 Hawk Hill Lane,10890,1823,192,420,Classic,Echo Ridge,1,2,2,625
+2021,12,2003,19,Village 31,Prairie View Ct,100 Prairie View Ct,9827,1120,180,436,Classic,Millpond,1,2,2,450
+2020,6,2002,20,Village 31,Maple Grove Lane,1772 Maple Grove Lane,12600,1873,242,545,Classic,Orchard Crest,1,2,2,610
+2021,3,2003,19,Village 31,Hidden Hollow Lane,1895 Hidden Hollow Lane,6695,1639,163,436,Classic,Pine Hill,1,2,2,525
+2021,7,2003,19,Village 31,Hawk Hill Lane,1917 Hawk Hill Lane,6321,1539,161,436,Classic,Pine Hill,1,2,2,565
+2019,4,2003,19,Village 31,Graeagle Lane,1950 Graeagle Lane,6011,1539,163,436,Classic,Pine Hill,1,2,2,480
+2020,8,2003,19,Village 31,Prairie View Lane,2048 Prairie View Lane,6159,1491,163,436,Classic,Pine Hill,1,2,2,470
+2020,9,2002,20,Village 31,Prairie View Court,110 Prairie View Court,5924,1130,203,438,Classic,Sequoia,1,2,2,395
+2020,12,2003,19,Village 31,Prairie View Court,115 Prairie View Court,5231,1130,203,438,Classic,Sequoia,1,2,2,425
+2019,7,2002,20,Village 31,Prairie  View Lane,1889 Prairie  View Lane,6499,1155,203,438,Classic,Sequoia,1,2,2,396
+2020,8,2002,20,Village 31,Duckhorn Lane,1911 Duckhorn Lane,5898,1130,203,438,Classic,Sequoia,1,2,2,365
+2019,5,2002,20,Village 31,Prairie View Lane,2036 Prairie View Lane,4573,1155,203,438,Classic,Sequoia,1,2,2,367
+2020,11,2004,18,Village 33,Wood Duck Court,460 Wood Duck Court,9665,1531,156,420,Classic,Alpine,1,2,2,540
+2020,4,2004,18,Village 33,Wood Duck Court,461 Wood Duck Court,7078,1361,168,400,Classic,Madera,1,2,2,440
+2021,11,2004,18,Village 33,Garganey Lane,2037 Garganey Lane,7971,1795,262,438,Classic,Tehama,1,3,2,660
+2019,6,2004,18,Village 34,Cliff Swallow Lane,1755 Cliff Swallow Lane,11252,1549,156,420,Classic,Alpine,1,2,2,515
+2020,8,2004,18,Village 34,Blackbird Lane,1788 Blackbird Lane,5915,1549,156,420,Classic,Alpine,1,2,2,445
+2019,11,2005,17,Village 34,Coopers Hawk Loop,2790 Coopers Hawk Loop,6995,1549,156,420,Classic,Alpine,1,2,2,482
+2021,3,2005,17,Village 34,Coopers Hawk Loop,2799 Coopers Hawk Loop,7906,1531,156,420,Classic,Alpine,1,2,2,611
+2021,10,2005,17,Village 34,Coopers Hawk Loop,2799 Coopers Hawk Loop,7906,1531,156,420,Classic,Alpine,1,2,2,626
+2020,7,2005,17,Village 34,Coopers Hawk Loop,2850 Coopers Hawk Loop,6525,1549,156,420,Classic,Alpine,1,2,2,511
+2019,12,2005,17,Village 34,Coopers Hawk Loop,2886 Coopers Hawk Loop,8367,1549,156,420,Classic,Alpine,1,2,2,469
+2021,11,2005,17,Village 34,Coopers Hawk Loop,2922 Coopers Hawk Loop,7205,1549,156,420,Classic,Alpine,1,2,2,600
+2019,1,2005,17,Village 34,Coopers Hawk Loop,3011 Coopers Hawk Loop,7440,1549,156,420,Classic,Alpine,1,2,2,460
+2021,5,2004,18,Village 34,Blackbird Lane,1829 Blackbird Lane,6004,1195,168,400,Classic,Calaveras,1,2,2,465
+2021,2,2005,17,Village 34,Coopers Hawk Loop,2811 Coopers Hawk Loop,6302,1195,168,400,Classic,Calaveras,1,2,2,425
+2021,10,2005,17,Village 34,Coopers Hawk Loop,2939 Coopers Hawk Loop,4578,1195,168,400,Classic,Calaveras,1,2,2,530
+2019,5,2004,18,Village 34,Cliff Swallow Lane,1762 Cliff Swallow Lane,5118,1361,168,400,Classic,Madera,1,2,2,444
+2021,6,2005,17,Village 34,Coopers Hawk Loop,2826 Coopers Hawk Loop,4984,1361,168,400,Classic,Madera,1,2,2,535
+2021,6,2005,17,Village 34,Coopers Hawk Loop,2987 Coopers Hawk Loop,4279,1361,168,400,Classic,Madera,1,2,2,515
+2021,5,2004,18,Village 34,Cliff Swallow Lane,1779 Cliff Swallow Lane,7736,1573,178,438,Classic,Trinity,1,2,2,651
+2019,5,2005,17,Village 34,Blackbird Lane,1997 Blackbird Lane,8489,1775,262,438,Classic,Tehama,1,3,2,550
+2020,5,2005,17,Village 34,Coopers Hawk Loop,2927 Coopers Hawk Loop,5845,1793,262,438,Classic,Tehama,1,3,2,526
+2019,8,2004,18,Village 35,Mountain Quail Ct,240 Mountain Quail Ct,6202,1549,156,420,Classic,Alpine,1,2,2,505
+2019,11,2005,17,Village 35,Black Hawk Lane,2916 Black Hawk Lane,7392,1549,156,420,Classic,Alpine,1,2,2,505
+2021,4,2005,17,Village 35,Black Hawk Lane,2964 Black Hawk Lane,6525,1531,156,420,Classic,Alpine,1,2,2,600
+2019,8,2004,18,Village 35,Eagles Peak Lane,2607 Eagles Peak Lane,5553,1190,168,400,Classic,Calaveras,1,2,2,389
+2019,2,2005,17,Village 35,Black Hawk Lane,2933 Black Hawk Lane,5928,1190,168,400,Classic,Calaveras,1,2,2,361
+2021,2,2004,18,Village 35,Eagles Peak Lane,2595 Eagles Peak Lane,5541,1361,168,400,Classic,Madera,1,2,2,518
+2020,8,2005,17,Village 35,Black Hawk Lane,2921 Black Hawk Lane,5749,1361,168,400,Classic,Madera,1,2,2,436
+2019,1,2004,18,Village 35,Mountain Quail Ct,235 Mountain Quail Ct,10010,1673,178,438,Classic,Trinity,1,2,2,476
+2021,7,2004,18,Village 35,Goshawak Lane,2569 Goshawak Lane,6125,1655,178,438,Classic,Trinity,1,2,2,618
+2020,2,2005,17,Village 35,Black Hawk Lane,3017 Black Hawk Lane,7601,1673,178,438,Classic,Trinity,1,2,2,465
+2020,3,2004,18,Village  36,Longspur Loop,2169 Longspur Loop,5306,1531,156,420,Classic,Alpine,1,2,2,510
+2020,7,2004,18,Village  36,Longspur Loop,2210 Longspur Loop,6459,1549,156,420,Classic,Alpine,1,2,2,460
+2020,1,2004,18,Village  36,Rubicon Lane,2444 Rubicon Lane,5327,1531,156,420,Classic,Alpine,1,2,2,492
+2021,4,2004,18,Village  36,Harper Court,213 Harper Court,7710,1190,168,400,Classic,Calaveras,1,2,2,469
+2020,7,2004,18,Village  36,Longspur Loop,2426 Longspur Loop,6747,1655,178,438,Classic,Trinity,1,2,2,497
+2020,12,2004,18,Village  36,Rubicon Lane,2372 Rubicon Lane,5597,1795,262,438,Classic,Tehama,1,3,2,525
+2019,12,2004,18,Village  36,Swainson Lane,2442 Swainson Lane,5954,1777,262,438,Classic,Tehama,1,3,2,460
+2021,8,2004,18,Village  36,Rubicon Lane,2456 Rubicon Lane,5310,1777,262,438,Classic,Tehama,1,3,2,551
+2019,6,2001,21,Village 38,Ivy Arbor Lane,1330 Ivy Arbor Lane,5893,1045,190,410,Classic,Mariposa,1,1,1,365
+2021,4,2002,20,Village 38,Stepping Stone Lane,2111 Stepping Stone Lane,7314,1020,190,410,Classic,Mariposa,1,1,1,450
+2021,4,2003,19,Village 38,Stepping Stone Lane,2220 Stepping Stone Lane,4238,1020,190,410,Classic,Mariposa,1,1,1,440
+2019,2,2002,20,Village 38,Lamplight Lane,2263 Lamplight Lane,6677,1020,190,410,Classic,Mariposa,1,1,1,369
+2020,9,2002,20,Village 38,Lamplight Lane,2272 Lamplight Lane,4155,1020,190,410,Classic,Mariposa,1,1,1,376
+2019,8,2001,21,Village 38,Ivy Arbor Court,111 Ivy Arbor Court,5758,1161,180,436,Classic,Millpond,1,2,2,385
+2020,1,2002,20,Village 38,Ivy Arbor Lane,1310 Ivy Arbor Lane,6716,1138,180,436,Classic,Millpond,1,2,2,365
+2021,8,2002,20,Village 38,Pebblestone Lane,2233 Pebblestone Lane,6525,1184,180,436,Classic,Millpond,1,2,2,511
+2021,12,2003,19,Village 38,Springvale Lane,1855 Springvale Lane,6360,1531,156,420,Classic,Alpine,1,2,2,508
+2020,5,2001,21,Village 38,Picket Fence Lane,1115 Picket Fence Lane,5776,1298,203,438,Classic,Bridgegate,1,2,2,407
+2020,8,2002,20,Village 38,Laurelhurst Lane,2000 Laurelhurst Lane,5758,1298,203,438,Classic,Bridgegate,1,2,2,393
+2019,8,2002,20,Village 38,Greystone Lane,2255 Greystone Lane,5789,1322,203,438,Classic,Bridgegate,1,2,2,454
+2021,7,2002,20,Village 38,Ivy Arbor Lane,1370 Ivy Arbor Lane,9382,1823,192,420,Classic,Echo Ridge,1,2,2,850
+2021,4,2003,19,Village 38,Delta Wind Lane,1680 Delta Wind Lane,10053,1833,192,420,Classic,Echo Ridge,1,2,2,625
+2019,4,2003,19,Village 38,Laurelhurst Lane,1990 Laurelhurst Lane,7679,1728,192,420,Classic,Echo Ridge,1,2,2,484
+2021,7,2004,18,Village 38,Laurelhurst Lane,1990 Laurelhurst Lane,8391,1728,192,420,Classic,Echo Ridge,1,2,2,741
+2020,10,2002,20,Village 38,Lamplight Lane,2185 Lamplight Lane,9932,1870,192,420,Classic,Echo Ridge,1,2,2,530
+2019,5,2002,20,Village 38,Wisteria Court,235 Wisteria Court,12200,1704,192,420,Classic,Echo Ridge,1,2,2,495
+2020,10,2001,21,Village 38,Ivy Arbor Lane,1257 Ivy Arbor Lane,7409,1873,242,545,Classic,Orchard Crest,1,2,2,590
+2019,4,2003,19,Village 38,Laurelhurst Lane,1935 Laurelhurst Lane,10184,1873,242,545,Classic,Orchard Crest,1,2,2,500
+2019,1,2003,19,Village 38,Laurelhurst Lane,2090 Laurelhurst Lane,7714,1873,242,545,Classic,Orchard Crest,1,2,2,512
+2021,2,2003,19,Village 38,Laurelhurst Lane,2090 Laurelhurst Lane,7714,1873,242,545,Classic,Orchard Crest,1,2,2,638
+2021,3,2002,20,Village 38,Ivy Arbor Lane,1300 Ivy Arbor Lane,7850,1747,163,436,Classic,Pine Hill,1,2,2,465
+2021,5,2002,20,Village 38,Ivy Arbor Lane,1300 Ivy Arbor Lane,7848,1747,163,436,Classic,Pine Hill,1,2,2,639
+2020,4,2002,20,Village 38,Ivy Arbor Lane,1481 Ivy Arbor Ln,6098,1515,163,436,Classic,Pine Hill,1,2,2,469
+2019,5,2003,19,Village 38,Springvale Lane,1845 Springvale Lane,6969,1515,163,436,Classic,Pine Hill,1,2,2,515
+2021,10,2002,20,Village 38,Stonecrest Lane,2064 Stonecrest Lane,9112,1539,161,436,Classic,Pine Hill,1,2,2,635
+2021,4,2002,20,Village 38,Ivy Arbor Lane,1244 Ivy Arbor Lane,7684,1571,184,430,Classic,Quail Cove,1,2,2,635
+2021,6,2002,20,Village 38,Picket Fence Lane,1415 Picket Fence Lane,9108,1920,184,430,Classic,Quail Cove,1,2,2,718
+2021,8,2002,20,Village 38,Picket Fence Lane,1463 Picket Fence Lane,9266,1595,184,430,Classic,Quail Cove,1,2,2,550
+2019,9,2003,19,Village 38,Gazebo Court,223 Gazebo Court,8311,1571,184,430,Classic,Quail Cove,1,2,2,543
+2020,5,2003,19,Village 38,Stepping Stone Lane,2231 Stepping Stone Lane,8311,1547,184,430,Classic,Quail Cove,1,2,2,419
+2020,8,2001,21,Village 38,Ivy Arbor Lane,1320 Ivy Arbor Lane,5466,1347,203,438,Classic,Sequoia,1,2,2,406
+2019,8,2003,19,Village 38,Delta Wind Lane,1605 Delta Wind Lane,4356,1155,203,438,Classic,Sequoia,1,2,2,384
+2019,5,2003,19,Village 38,Lockwood Lane,2017 Lockwood Lane,6682,1155,203,438,Classic,Sequoia,1,2,2,343
+2020,8,2003,19,Village 38,Lockwood Lane,2017 Lockwood Lane,6682,1155,203,438,Classic,Sequoia,1,2,2,429
+2019,4,2002,20,Village 38,Stonecrest Lane,2030 Stonecrest Lane,5671,1155,203,438,Classic,Sequoia,1,2,2,385
+2019,8,2002,20,Village 38,Stonecrest Lane,2043 Stonecrest Lane,4356,1155,203,438,Classic,Sequoia,1,2,2,399
+2021,5,2003,19,Village 38,Lockwood Lane,2107 Lockwood Lane,5528,1155,203,438,Classic,Sequoia,1,2,2,480
+2020,8,2002,20,Village 38,Stonecrest Lane,2114 Stonecrest Lane,4560,1155,203,438,Classic,Sequoia,1,2,2,400
+2021,5,2002,20,Village 38,Pebblestone Lane,2227 Pebblestone Lane,5319,1155,203,438,Classic,Sequoia,1,2,2,440
+2021,11,2002,20,Village 38,Pebblestone Lane,2227 Pebblestone Lane,5319,1155,203,438,Classic,Sequoia,1,2,2,500
+2021,7,2003,19,Village 38,Pebblestone Lane,2275 Pebblestone Lane,5380,1130,203,438,Classic,Sequoia,1,2,2,515
+2021,4,2001,21,Village 39,Gatehouse Lane,1976 Gatehouse Lane,8981,1571,184,430,Classic,Quail Cove,1,2,2,605
+2020,10,2002,20,Village 39,Gatehouse Lane,2048 Gatehouse Lane,6403,1539,163,436,Classic,Pine Hill,1,3,2,525
+2020,9,2002,20,Village 40,Geary Court,265 Geary Court,11800,1020,190,410,Classic,Mariposa,1,1,1,375
+2020,8,2002,20,Village 40,Geary Lane,660 Geary Lane,4721,1020,190,410,Classic,Mariposa,1,1,1,385
+2021,8,2002,20,Village 40,Crocker Lane,1700 Crocker Lane,7161,1184,180,436,Classic,Millpond,1,2,2,550
+2021,7,2002,20,Village 40,Crocker Lane,1740 Crocker Lane,5714,1120,180,436,Classic,Millpond,1,2,2,620
+2021,4,2002,20,Village 40,Crocker Lane,1630 Crocker Lane,5619,1322,192,420,Classic,Bridgegate,1,2,2,483
+2021,10,2002,20,Village 40,Crocker Lane,1650 Crocker Lane,5728,1298,192,420,Classic,Bridgegate,1,2,2,515
+2021,2,2002,20,Village 40,Stone House Lane,1631 Stone House Lane,6299,1491,161,436,Classic,Pine Hill,1,2,2,485
+2021,2,2002,20,Village 40,Hopkins Court,400 Hopkins Court,8189,1539,161,436,Classic,Pine Hill,1,2,2,535
+2019,6,2002,20,Village 40,Hopkins Lane,630 Hopkins Lane,9435,1663,163,436,Classic,Pine Hill,1,2,2,536
+2021,4,2002,20,Village 40,Crocker Lane,1640 Crocker Lane,4304,1155,203,438,Classic,Sequoia,1,2,2,437
+2020,8,2002,20,Village 40,Geary Court,250 Geary Court,10890,1155,203,438,Classic,Sequoia,1,2,2,384
+2020,6,2002,20,Village 40,Hopkins Lane,685 Hopkins Lane,6098,1130,203,438,Classic,Sequoia,1,2,2,379
+2020,3,2006,16,Village 41,Snapdragon Pl,101 Snapdragon Pl,9543,1549,156,420,Classic,Alpine,1,2,2,485
+2021,7,2006,16,Village 41,Snapdragon Place,101 Snapdragon Place,9544,1549,156,420,Classic,Alpine,1,2,2,575
+2020,6,2005,17,Village 41,Periwinkle Lane,1446 Periwinkle Lane,5806,1549,156,420,Classic,Alpine,1,2,2,490
+2019,12,2006,16,Village 41,Snapdragon Lane,341 Snapdragon Lane,7357,1549,156,420,Classic,Alpine,1,2,2,500
+2021,2,2006,16,Village 41,Daylily Lane,375 Daylily Lane,8826,1549,156,420,Classic,Alpine,1,2,2,508
+2019,7,2006,16,Village 41,Daylily Lane,408 Daylily Lane,5183,1549,156,420,Classic,Alpine,1,2,2,489
+2020,8,2006,16,Village 41,Snapdragon Lane,491 Snapdragon Lane,5344,1549,156,420,Classic,Alpine,1,2,2,479
+2021,8,2006,16,Village 41,Periwinkle Lane,1410 Periwinkle Lane,5950,1195,168,400,Classic,Calaveras,1,2,2,485
+2019,9,2006,16,Village 41,Snapdragon Lane,377 Snapdragon Lane,6952,1195,168,400,Classic,Calaveras,1,2,2,395
+2019,8,2006,16,Village 41,Snapdragon Lane,485 Snapdragon Lane,4321,1195,168,400,Classic,Calaveras,1,2,2,395
+2020,5,2005,17,Village 41,Orchid Lane,593 Orchid Lane,4552,1190,168,400,Classic,Calaveras,1,2,2,400
+2019,5,2005,17,Village 41,Orchid Lane,599 Orchid Lane,4756,1195,168,400,Classic,Calaveras,1,2,2,395
+2020,6,2005,17,Village 41,Periwinkle Lane,1392 Periwinkle,4700,1361,168,400,Classic,Madera,1,2,2,413
+2019,2,2006,16,Village 41,Belladonna Lane,527 Belladonna Lane,5505,1349,168,400,Classic,Madera,1,2,2,390
+2019,5,2005,17,Village 41,Belladonna Lane,569 Belladonna Lane,5401,1190,203,438,Classic,Sequoia,1,2,2,381
+2020,1,2005,17,Village 41,Chicory Court,106 Chicory Court,5601,1673,178,438,Classic,Trinity,1,2,2,476
+2021,12,2006,16,Village 41,Snapdragon Lane,209 Snapdragon Lane,9322,1647,178,438,Classic,Trinity,1,2,2,610
+2021,8,2005,17,Village 41,Chicory Court,101 Chicory Court,8520,1775,262,438,Classic,Tehama,1,3,2,585
+2019,4,2006,16,Village 41,Snapdragon Place,103 Snapdragon Place,9304,1775,262,438,Classic,Tehama,1,3,2,455
+2021,5,2006,16,Village 41,Snapdragon Lane,326 Snapdragon Lane,5708,1793,262,438,Classic,Tehama,1,3,2,520
+2020,4,2006,16,Village 41,Snapdragon Ln,338 Snapdragon Ln,5963,1793,262,438,Classic,Tehama,1,3,2,500
+2019,6,2006,16,Village 41,Daylily Lane,342 Daylily Lane,5880,1793,262,438,Classic,Tehama,1,3,2,485
+2021,6,2006,16,Village 41,Snapdragon Lane,371 Snapdragon Lane,6910,1793,262,438,Classic,Tehama,1,3,2,581
+2021,4,2006,16,Village 41,Snapdragon Lane,386 Snapdragon Lane,6521,1793,262,438,Classic,Tehama,1,3,2,557
+2020,8,2005,17,Village 42,Tarapin Lane,1197 Tarapin Lane,5532,1549,156,420,Classic,Alpine,1,2,2,455
+2021,3,2005,17,Village 42,Tarapin Lane,1257 Tarapin Lane,5693,1549,156,420,Classic,Alpine,1,2,2,519
+2021,5,2005,17,Village 42,Freschi Lane,1263 Freschi Lane,5776,1549,156,420,Classic,Alpine,1,2,2,553
+2019,1,2005,17,Village 42,Timberland Lane,228 Timberland Ln,7126,1531,156,420,Classic,Alpine,1,2,2,442
+2020,8,2004,18,Village 42,Timberland Way,309 Timberland Way,11291,1531,156,420,Classic,Alpine,1,2,2,525
+2019,4,2005,17,Village 42,Freschi Lane,1239 Freschi Lane,4599,1190,168,400,Classic,Calaveras,1,2,2,395
+2021,12,2005,17,Village 42,Timberland Lane,240 Timberland Ln,5759,1195,168,400,Classic,Calaveras,1,2,2,535
+2020,9,2005,17,Village 42,Tarapin Lane,1226 Tarapin Lane,4486,1361,168,400,Classic,Madera,1,2,2,455
+2020,10,2005,17,Village 42,Timberland Lane,180 Timberland Lane,7779,1795,262,438,Classic,Tehama,1,3,2,505
+2020,2,2003,19,Village 43,Turtledove Court,103 Turtledove Court,7274,1549,156,420,Classic,Alpine,1,2,2,509
+2020,7,2005,17,Village 43,Overland Lane,1040 Overland Lane,5972,1549,156,420,Classic,Alpine,1,2,2,438
+2020,9,2005,17,Village 43,Overland Lane,1170 Overland Lane,5871,1549,156,420,Classic,Alpine,1,2,2,492
+2020,11,2005,17,Village 43,Silverwood Court,517 Silverwood Court,6438,1195,168,400,Classic,Calaveras,1,2,2,426
+2021,3,2005,17,Village 43,Silverwood Court,514 Silverwood Court,9553,1674,178,438,Classic,Trinity,1,2,2,543
+2019,5,2007,15,Village 43,Topanga Lane,1510 Topanga #101,1089,1519,178,210,Condo,Condo,1,2,2,365
+2019,9,2007,15,Village 44,Topanga Lane,1500 Topanga Lane #101,1089,1519,178,210,Condo,Condo,1,2,2,368
+2021,7,2007,15,Village 44,Topanga Lane,1500 Topanga Lane #101,1524,1519,178,210,Condo,Condo,1,2,2,410
+2020,11,2007,15,Village 44,Topanga Lane,1500 Topanga Lane #103,1089,1065,178,210,Condo,Condo,1,2,2,285
+2020,6,2007,15,Village 44,Topanga Lane,1500 Topanga Lane #105,1089,1509,178,210,Condo,Condo,1,2,2,360
+2021,3,2007,15,Village 44,Topanga Lane,1500 Topanga Lane #105,1490,1509,178,210,Condo,Condo,1,2,2,375
+2021,3,2007,15,Village 44,Topanga Lane,1500 Topanga Lane #106,1509,1519,178,210,Condo,Condo,1,2,2,410
+2021,3,2007,15,Village 44,Topanga Lane,1500 Topanga Lane #200,1146,1020,178,210,Condo,Condo,1,2,2,305
+2020,11,2007,15,Village 44,Topanga Lane,1500 Topanga Lane #203,1089,1065,178,210,Condo,Condo,1,2,2,275
+2019,9,2007,15,Village 44,Topanga Lane,1500 Topanga Lane #206,1089,1519,178,210,Condo,Condo,1,2,2,370
+2019,12,2007,15,Village 44,Topanga Lane,1500 Topanga Ln #106,1089,1519,178,210,Condo,Condo,1,2,2,368
+2020,1,2007,15,Village 44,Topanga Lane,1500 Topanga Ln #202,1089,1519,178,210,Condo,Condo,1,2,2,339
+2020,8,2007,15,Village 44,Topanga Lane,1510 Topanga Lane #101,1089,1519,178,210,Condo,Condo,1,2,2,369
+2020,9,2007,15,Village 44,Topanga Lane,1510 Topanga Lane #105,1089,1509,178,210,Condo,Condo,1,2,2,360
+2021,7,2007,15,Village 44,Topanga Lane,1510 Topanga Lane #106,1546,1519,178,210,Condo,Condo,1,2,2,400
+2020,11,2007,15,Village 44,Topanga Lane,1510 Topanga Lane #200,1089,1194,178,210,Condo,Condo,1,2,2,309
+2021,6,2007,15,Village 44,Topanga Lane,1510 Topanga Lane #207,1098,1194,178,210,Condo,Condo,1,2,2,370
+2021,8,2007,15,Village 44,Topanga Lane,1520 Topanga Lane #106,1546,1519,178,210,Condo,Condo,1,2,2,420
+2020,4,2007,15,Village 44,Topanga Lane,1520 Topanga Ln #101,1089,1519,178,210,Condo,Condo,1,2,2,355
+2019,2,2007,15,Village 44,Topanga Lane,1520 Topanga Ln #200,1089,1194,178,210,Condo,Condo,1,2,2,295
+2020,12,2007,15,Village 44,Topanga Lane,1530 Topanga Lane #107,1089,1194,178,210,Condo,Condo,1,2,2,305
+2020,9,2007,15,Village 44,Topanga Lane,1530 Topanga Lane #200,1089,1194,178,210,Condo,Condo,1,2,2,300
+2021,1,2007,15,Village 44,Topanga Lane,1530 Topanga Lane #205,1393,1509,178,210,Condo,Condo,1,2,2,370
+2019,2,2007,15,Village 44,Topanga Lane,1530 Topanga Ln #205,1089,1509,178,210,Condo,Condo,1,2,2,346
+2021,12,2007,15,Village 44,Topanga Lane,1550 Topanga Lane # 101,1590,1519,178,210,Condo,Condo,1,2,2,430
+2019,11,2007,15,Village 44,Topanga Lane,1550 Topanga Lane #203,1089,1065,178,210,Condo,Condo,1,2,2,285
+2021,8,2005,17,Village 43,Topanga Lane,1403 Topanga Lane,5035,1240,178,210,Cottage,Cambria,1,2,2,517
+2020,11,2005,17,Village 43,Topanga Lane,1472 Topanga Lane,5710,1240,168,400,Cottage,Cambria,1,2,2,417
+2020,3,2005,17,Village 43,Albion Ct,210 Albion Ct,7688,1741,178,210,Cottage,Coronado,2,2,2,485
+2021,11,2005,17,Village 43,Albion Court,207 Albion Court,5678,1741,178,210,Cottage,Coronado,1,3,3,549
+2021,7,2005,17,Village 43,Topanga Lane,1466 Topanga Lane,5197,1741,178,210,Cottage,Coronado,1,4,3,525
+2020,9,2005,17,Village 1,Sawmill Court,504 Sawmill Court,10149,2258,281,665,Estate,Napa,1,2,3,850
+2019,12,2005,17,Village 1,Hay Wagon Court,100 Hay Wagon Court,8738,1782,197,438,Estate,Santa Cruz,2,2,2,510
+2021,7,2005,17,Village 1,Sawmill Court,502 Sawmill Court,10149,2636,296,634,Estate,Sonoma,1,2,2,924
+2021,7,2005,17,Village 1,Wagon Wheel Lane,929 Wagon Wheel Lane,8594,2617,296,634,Estate,Sonoma,1,2,2,850
+2020,2,2005,17,Village 1,Wagon Wheel Lane,941 Wagon Wheel Lane,8450,3081,290,671,Estate,Santa Barbara,1,3,3,839
+2021,6,2004,18,Village 2,Calistoga Lane,137 Calistoga Lane,8470,2240,281,665,Estate,Napa,1,2,2,825
+2021,5,2004,18,Village 2,Calistoga Lane,119 Calistoga Lane,6507,1767,197,438,Estate,Santa Cruz,1,2,2,650
+2019,6,2004,18,Village 2,Calistoga Lane,161 Calistoga Lane,6503,1767,197,438,Estate,Santa Cruz,2,2,2,610
+2021,6,2004,18,Village 2,Calistoga Lane,161 Calistoga Lane,6503,1767,197,438,Estate,Santa Cruz,1,2,2,845
+2020,8,2004,18,Village 2,Surrey Top Lane,202 Surrey Top Lane,8346,1785,197,438,Estate,Santa Cruz,2,2,2,539
+2019,2,2005,17,Village 3,Sawmill Lane,384 Sawmill Lane,9147,2240,281,665,Estate,Napa,1,2,3,800
+2019,5,2005,17,Village 3,Sawmill Lane,429 Sawmill Lane,8947,2264,281,665,Estate,Napa,1,2,3,650
+2019,5,2005,17,Village 3,Truchard Lane,1394 Truchard Lane,7169,1785,197,438,Estate,Santa Cruz,2,2,2,595
+2021,3,2005,17,Village 3,Sawmill Lane,252 Sawmill Lane,8598,2832,296,634,Estate,Sonoma,1,2,2,865
+2020,12,2005,17,Village 3,Sawmill Lane,405 Sawmill Lane,9400,2504,208,630,Estate,Marin,1,3,2,640
+2021,6,2005,17,Village 3,Truchard Lane,1247 Truchard Lane,9970,3063,290,671,Estate,Santa Barbara,1,3,2,1050
+2021,4,2005,17,Village 3,Sawmill Lane,156 Sawmill Lane,8446,3081,290,671,Estate,Santa Barbara,1,3,2,1000
+2020,6,2005,17,Village 3,Sawmill Lane,288 Sawmill Lane,8838,3081,290,671,Estate,Santa Barbara,1,3,3,825
+2021,7,2004,18,Village 4,Lasso Lake Lane,1209 Lasso Lake Lane,8391,2246,281,665,Estate,Napa,1,2,2,912
+2019,4,2004,18,Village 4,Lasso Lake Lane,1305 Lasso Lake Lane,8746,2264,281,665,Estate,Napa,1,2,3,824
+2021,11,2004,18,Village 4,Longhorn Lane,1314 Longhorn Lane,11326,2264,281,665,Estate,Napa,1,2,2,1100
+2019,5,2004,18,Village 4,Lasso Lake Lane,1389 Lasso Lake Lane,8581,2264,281,665,Estate,Napa,1,2,3,849
+2019,6,2004,18,Village 4,Lasso Lake Lane,1200 Lasso Lake Lane,7213,1782,197,438,Estate,Santa Cruz,2,2,2,550
+2021,1,2004,18,Village 4,Lasso Lake Lane,1236 Lasso Lake Lane,6583,2263,250,634,Estate,Shasta,1,2,2,699
+2021,4,2004,18,Village 4,Longhorn Lane,1317 Longhorn Lane,11326,2245,250,634,Estate,Shasta,1,2,2,749
+2021,11,2004,18,Village 4,Lasso Lake Lane,109 Lasso Lake Lane,10637,2636,296,634,Estate,Sonoma,1,2,2,1100
+2019,7,2004,18,Village 4,Lasso Lake Court,113 Lasso Lake Court,13500,2831,296,634,Estate,Sonoma,1,2,2,1205
+2021,6,2004,18,Village 4,Lasso Lake Lane,1221 Lasso Lake Lane,8256,2635,296,634,Estate,Sonoma,1,2,2,950
+2019,6,2004,18,Village 4,Lasso Lake Lane,1377 Lasso Lake Lane,8372,2831,296,634,Estate,Sonoma,1,2,2,905
+2021,3,2004,18,Village 4,Longhorn Lane,1110 Longhorn Lane,8303,2504,208,630,Estate,Marin,1,3,2,875
+2020,9,2004,18,Village 4,Longhorn Lane,1086 Longhorn Lane,8338,3063,290,671,Estate,Santa Barbara,1,3,3,859
+2020,7,2004,18,Village 4,Lasso Lake Lane,1173 Lasso Lake Lane,8359,2848,290,671,Estate,Santa Barbara,1,3,3,800
+2021,8,2003,19,Village 4,Saddlehorn Loop,288 Saddlehorn Loop,10890,2151,250,654,Estate,Sausalito,1,3,2,771
+2021,5,2004,18,Village 5,Rustic Ranch Lane,729 Rustic Ranch Lane,8507,2258,281,665,Estate,Napa,1,2,2,945
+2020,9,2003,19,Village 5,Rustic Ranch Lane,572 Rustic Ranch Lane,8698,1785,197,438,Estate,Santa Cruz,2,2,2,565
+2020,6,2003,19,Village 5,Rustic Ranch Lane,596 Rustic Ranch Lane,8468,1785,197,438,Estate,Santa Cruz,2,2,2,545
+2020,7,2003,19,Village 5,Rustic Ranch Lane,777 Rustic Ranch Lane,7021,1785,197,438,Estate,Santa Cruz,2,2,2,560
+2019,6,2003,19,Village 5,Rustic Ranch Lane,717 Rustic Ranch Lane,8759,2636,296,634,Estate,Sonoma,1,2,2,807
+2020,8,2003,19,Village 5,Rustic Ranch Lane,717 Rustic Ranch Lane,8759,2636,296,634,Estate,Sonoma,1,2,2,775
+2021,5,2002,20,Village 5,Lariat Place,225 Lariat Place,9602,2360,240,665,Estate,Atherton,1,3,2,735
+2021,8,2002,20,Village 6,Lariat Loop,266 Lariat Loop,8830,2955,280,420,Estate,Meadowgate,1,3,2,905
+2021,12,2001,21,Village 7,Shadow Lake Place,300 Shadow Lake Place,9278,2955,280,420,Estate,Meadowgate,1,2,2,1075
+2021,4,2001,21,Village 7,Northfield Lane,841 Northfield Lane,7761,2883,333,436,Estate,Springcrest,1,2,2,847
+2021,8,2001,21,Village 7,Northfield Lane,853 Northfield Lane,7736,2612,333,436,Estate,Springcrest,1,2,2,870
+2021,5,2001,21,Village 7,Northfield Lane,889 Northfield Lane,7666,2612,333,436,Estate,Springcrest,1,2,2,869
+2020,10,2001,21,Village 7,Shadow Glen Place,1007 Shadow Glen Place,9879,2955,280,420,Estate,Meadowgate,1,3,2,880
+2021,6,2001,21,Village 7,Shadow Lake Place,260 Shadow Lake Place,8976,2801,280,420,Estate,Meadowgate,2,3,2,900
+2021,12,2001,21,Village 7,Shadow Lake Ct,450 Shadow Lake Ct,8483,2801,280,420,Estate,Meadowgate,2,3,2,1070
+2019,5,2001,21,Village 7,Northfield Lane,901 Northfield Lane,6534,2176,250,654,Estate,Sausalito,1,3,2,640
+2020,9,2001,21,Village 8,Lilypond Lane,460 Lilypond Lane,8990,2955,280,420,Estate,Meadowgate,1,3,2,840
+2019,2,2001,21,Village 9,Gold Nugget Circle,966 Gold Nugget Circle,9774,2754,333,436,Estate,Springcrest,1,2,2,835
+2020,7,2001,21,Village 9,Gold Nugget Circle,952 Gold Nugget Circle,9247,2801,280,420,Estate,Meadowgate,1,3,2,940
+2021,6,2001,21,Village 9,Gold Nugget Circle,922 Gold Nugget Circle,7532,2151,250,654,Estate,Sausalito,1,3,2,685
+2021,7,2004,18,Village 10,Violet Lane,628 Violet Lane,8965,2258,281,665,Estate,Napa,1,2,2,919
+2020,7,2004,18,Village 10,Violet Lane,652 Violet Lane,8982,2258,281,665,Estate,Napa,1,2,3,792
+2021,12,2004,18,Village 10,Segolilly Lane,1192 Segolilly Lane,7688,1785,197,438,Estate,Santa Cruz,1,2,2,660
+2020,10,2004,18,Village 10,Segolilly Lane,1192 Segolily Lane,7840,1785,197,438,Estate,Santa Cruz,2,2,2,571
+2019,4,2004,18,Village 10,Marigold Lane,283 Marigold Lane,9173,1785,197,438,Estate,Santa Cruz,2,2,2,535
+2019,7,2004,18,Village 10,Violet Lane,671 Violet Lane,7657,1785,197,438,Estate,Santa Cruz,2,2,2,549
+2021,4,2004,18,Village 10,Segolilly Lane,1197 Segolilly Lane,6747,2245,250,634,Estate,Shasta,1,2,2,630
+2021,1,2004,18,Village 10,Violet Lane,688 Violet Lane,8851,2832,296,634,Estate,Sonoma,1,2,2,875
+2019,2,2004,18,Village 10,Violet Lane,676 Violet Lane,9012,2830,290,671,Estate,Santa Barbara,1,3,3,885
+2019,7,2003,19,Village 11,Montgomery Court,520 Montgomery Court,9347,2955,280,420,Estate,Meadowgate,1,3,2,760
+2021,6,2001,21,Village 12,Summerhill Lane,1570 Summerhill Lane,8364,2465,337,420,Estate,Monterey,1,2,2,940
+2021,3,2001,21,Village 12,Shire Court,850 Shire Court,11986,2801,280,420,Estate,Meadowgate,2,3,2,925
+2019,5,2000,22,Villge 14,Yosemite Lane,975 Yosemite Lane,10737,2612,333,436,Estate,Springcrest,1,2,2,610
+2020,2,2000,22,Villge 14,Yosemite Lane,975 Yosemite Lane,10737,2612,333,436,Estate,Springcrest,1,2,2,800
+2020,9,2000,22,Villge 14,Yosemite Lane,980 Yosemite Lane,9060,2860,333,436,Estate,Springcrest,1,2,2,827
+2020,1,1999,23,Village 16,Secret Lake Loop,1225 Secret Lake Loop,11800,2373,337,671,Estate,Monterey,1,2,2,580
+2019,11,1999,23,Village 16,Paragon Lane,1087 Paragon Lane,9104,2883,333,436,Estate,Springcrest,1,2,2,685
+2021,7,1999,23,Village 16,Stone Pine Lane,1134 Stone Pine Lane,10093,2883,333,436,Estate,Springcrest,1,2,2,725
+2021,12,1999,23,Village 16,Castleberry Lane,780 Castleberry Lane,8651,2612,333,436,Estate,Springcrest,1,2,2,1092.6
+2021,4,1999,23,Village 16,Sun Park Lane,1005 Sun Park Lane,9108,2955,280,420,Estate,Meadowgate,1,3,2,889
+2020,6,1999,23,Village 16,Stone Pine Lane,1142 Stone Pine Lane,10075,2801,280,420,Estate,Meadowgate,1,3,2,750
+2019,4,1999,23,Village 16,Magnolia Lane,1172 Magnolia Lane,9922,2801,280,420,Estate,Meadowgate,1,3,2,739
+2021,8,1999,23,Village 16,Secret Lake Loop,1145 Secret Lake Loop,8882,2176,250,654,Estate,Sausalito,1,3,2,770
+2020,1,1999,23,Village 16,Secret Lake Loop,1146 Secret Lake Loop,8380,2151,250,654,Estate,Sausalito,1,3,2,685
+2019,2,2000,22,Village 16,Castleberry Lane,796 Castleberry Lane,10097,2176,250,654,Estate,Sausalito,1,3,2,713
+2021,12,2001,21,Village 19,Andover Lane,1980 Andover Lane,9182,3046,323,630,Estate,Carmel,1,2,2,1161
+2019,7,2002,20,Village 19,Winding Way,2680 Winding Way,9069,2809,333,436,Estate,Springcrest,1,2,2,930
+2021,3,2001,21,Village 19,Monument Drive,2028 Monument Drive,9766,2801,280,420,Estate,Meadowgate,2,3,2,940
+2019,12,2002,20,Village 19,Monument Drive,2260 Monument Drive,8964,2955,280,420,Estate,Meadowgate,1,3,2,924
+2020,4,2001,21,Village 19,Mossy Ridge Ln,862 Mossy Ridge Ln,8973,2817,280,420,Estate,Meadowgate,1,3,2,750
+2020,8,2001,21,Village 19,Wildomar Lane,876 Wildomar Lane,8131,2801,280,420,Estate,Meadowgate,1,3,2,760
+2021,8,2001,21,Village 19,Beckwith Lane,1802 Beckwith Lane,10054,2151,250,654,Estate,Sausalito,1,3,2,694
+2019,5,2001,21,Village 19,Andover Lane,1956 Andover Lane,8367,2176,250,654,Estate,Sausalito,1,3,2,695
+2020,9,2001,21,Village 19,Mossy Ridge Lane,873 Mossy Ridge Lane,9326,2176,250,654,Estate,Sausalito,1,3,2,755
+2021,3,2001,21,Village 19,Anton Court,915 Anton Court,13738,2176,250,654,Estate,Sausalito,1,3,2,762
+2019,8,2001,21,Village 20,Shadow Lake Place,300 Shadow Lake Place,9147,2955,280,420,Estate,Meadowgate,1,3,2,775
+2020,10,2002,20,Village 21,Granite Lane,2281 Granite Lane,9029,2801,280,420,Estate,Meadowgate,1,3,2,892
+2019,2,2001,21,Village 21,Granite Lane,2435 Granite Lane,10162,2955,280,420,Estate,Meadowgate,1,3,2,870
+2021,4,2002,20,Villagre 22,Crescent Circle,2610 Crescent Circle,10398,2754,333,436,Estate,Springcrest,1,2,2,836
+2021,4,2001,21,Villagre 22,Monument Drive,2023 Monument Drive,8443,2172,250,654,Estate,Sausalito,1,3,2,674
+2021,8,2005,17,Village 24,Grand Pheasant Lane,1994 Grand Pheasant Lane,10064,2258,281,665,Estate,Napa,1,2,2,935
+2019,4,2003,19,Village 24,Blue Heron Loop,2204 Blue Heron Loop,9156,2240,281,665,Estate,Napa,1,2,3,708
+2021,4,2003,19,Village 24,Blue Heron Loop,2252 Blue Heron Loop,9612,2258,281,665,Estate,Napa,1,2,2,905
+2020,10,2004,18,Village 24,Blue Heron Loop,2547 Blue Heron Loop,8672,2258,281,665,Estate,Napa,1,2,3,733
+2019,5,2004,18,Village 24,Grand Pheasant Lane,1874 Grand Pheasant Lane,6176,1767,197,438,Estate,Santa Cruz,2,2,2,545
+2020,4,2005,17,Village 24,Grand Pheasant Ln,1898 Grand Pheasant Ln,6673,2022,197,438,Estate,Santa Cruz,2,2,2,670
+2019,2,2003,19,Village 24,Song Sparrow Lane,2345 Song Sparrow Lane,10132,1785,197,438,Estate,Santa Cruz,2,2,2,505
+2020,8,2003,19,Village 24,Kingfisher Lane,2384 Kingfisher Lane,7178,1785,197,438,Estate,Santa Cruz,2,2,2,530
+2021,8,2003,19,Village 24,Oriole Court,500 Oriole Court,9662,1767,197,438,Estate,Santa Cruz,1,2,2,620
+2021,6,2004,18,Village 24,Whippoorwill Court,209 Whippoorwill Court,10890,2277,250,634,Estate,Shasta,1,2,2,770
+2021,2,2004,18,Village 24,Kingfisher Lane,2666 Kingfisher Lane,8879,2263,250,634,Estate,Shasta,1,2,2,695
+2021,1,2007,15,Village 24,Grand Pheasant Lane,1946 Grand Pheasant Lane,1393,2832,296,634,Estate,Sonoma,1,2,2,895
+2019,4,2003,19,Village 24,Kingfisher Lane,2293 Kingfisher Lane,10615,2636,296,634,Estate,Sonoma,1,2,2,652
+2019,4,2004,18,Village 24,Kingfisher Lane,2546 Kingfisher Lane,9705,2504,208,630,Estate,Marin,1,3,2,705
+2021,3,2005,17,Village 25,Avian Hill Place,1733 Avian Hill Place,9762,2264,281,665,Estate,Napa,1,2,2,945
+2020,11,2005,17,Village 25,Avian Hill Place,1744 Avian Hill Place,9909,2576,208,630,Estate,Marin,1,3,2,750
+2021,7,2005,17,Village 25,Avian Hill Place,1744 Avian Hill Place,9910,2576,208,630,Estate,Marin,1,3,2,885
+2019,11,2004,18,Village 25,Caravelle Court,2126 Caravelle Court,10280,3073,290,671,Estate,Santa Barbara,1,3,2,945
+2020,7,2003,19,Village 26,Homewood Lane,1818 Homewood Lane,9422,3046,337,654,Estate,Carmel,1,2,2,835
+2019,8,2004,18,Village 26,Carnelian Court,1695 Carnelian Court,9147,2240,281,665,Estate,Napa,1,2,3,890
+2019,5,2004,18,Village 26,Carnelian Court,1779 Carnelian Court,9692,2258,281,665,Estate,Napa,1,2,3,800
+2021,5,2003,19,Village 26,Homewood Lane,1872 Homewood Lane,8737,2240,281,665,Estate,Napa,1,2,2,800
+2020,3,2003,19,Village 26,Homewood Ln,1896 Homewood Ln,8450,2258,281,665,Estate,Napa,1,2,3,728
+2021,6,2004,18,Village 26,Carnelian Court,1966 Carnelian Court,10350,2258,281,665,Estate,Napa,1,2,2,900
+2019,5,2004,18,Village 26,Carnelian Court,1793 Carnelian Court,9857,2635,296,634,Estate,Sonoma,1,2,2,949
+2020,10,2004,18,Village 26,Carnelian Court,1793 Carnelian Court,9857,2635,296,634,Estate,Sonoma,1,2,2,979
+2019,11,2003,19,Village 26,Fallen Leaf Lane,1727 Fallen Leaf Lane,9343,2536,329,435,Estate,Tiburon,1,2,2,844
+2021,6,2003,19,Village 26,Fallen Leaf Lane,2035 Fallen Leaf Lane,9278,2536,329,435,Estate,Tiburon,1,2,2,904
+2021,10,2003,19,Village 26,Fallen Leaf Lane,1936 Fallen Leaf Lane,8237,2360,240,665,Estate,Atherton,1,3,2,798
+2020,11,2003,19,Village 26,Fallen Leaf Lane,1937 Fallen Leaf Lane,9008,2513,208,630,Estate,Marin,1,3,2,725
+2020,3,2004,18,Village 26,Caravelle Ct,2079 Caravelle Ct,9966,2495,208,630,Estate,Marin,1,3,2,705
+2019,4,2003,19,Village 26,Tallac Lane,1468 Tallac Lane,9478,2801,280,420,Estate,Meadowgate,1,3,2,1075
+2019,12,2003,19,Village 26,Homewood Lane,1833 Homewood Lane,10141,2801,280,420,Estate,Meadowgate,1,3,2,710
+2021,8,2003,19,Village 26,Homewood Lane,1869 Homewood Lane,9391,2955,280,420,Estate,Meadowgate,1,3,2,1156
+2020,2,2003,19,Village 26,Fallen Leaf Lane,1951 Fallen Leaf Lane,8712,2955,280,420,Estate,Meadowgate,1,3,2,935
+2021,12,2004,18,Village 26,Caravelle Ct,2093 Caravelle Ct,16000,2258,281,665,Estate,Napa,1,3,2,902
+2021,2,2003,19,Village 26,Glenbrook Lane,1713 Glenbrook Lane,8085,2176,250,654,Estate,Sausalito,1,3,2,650
+2019,2,2003,19,Village 26,Homewood Lane,1815 Homewood Lane,12200,2176,250,654,Estate,Sausalito,1,3,2,585
+2020,2,2003,19,Village 26,Homewood Lane,1884 Homewood Lane,8197,2151,250,654,Estate,Sausalito,1,3,2,670
+2020,5,2001,21,Village  28,Barn Valley Court,1439 Barn Valley Court,9796,2955,280,420,Estate,Meadowgate,1,3,2,873
+2021,5,2000,22,Village 29,Barn Valley Lane,1746 Barn Valley Lane,9337,3046,323,630,Estate,Carmel,1,2,2,937
+2020,5,2000,22,Village 30,Dapple Dawn Lane,1344 Dapple Dawn Lane,9496,2883,333,436,Estate,Springcrest,1,2,2,910
+2020,7,2000,22,Village 30,Perdita Lane,1463 Perdita,8781,2833,333,436,Estate,Springcrest,1,2,2,760
+2021,1,2000,22,Village 30,Gingersnap Lane,1640 Gingersnap Lane,9583,2612,333,436,Estate,Springcrest,1,2,2,833
+2021,11,2000,22,Village 30,Medallion Court,730 Medallion Court,12632,2612,333,436,Estate,Springcrest,1,2,2,879
+2021,4,2000,22,Village 30,Dapple Dawn Lane,1200 Dapple Dawn Lane,11737,2801,280,420,Estate,Meadowgate,2,3,2,980
+2020,6,2002,20,Village 31,Hill Grove Lane,1782 Hill Grove Lane,7652,2612,333,436,Estate,Springcrest,1,2,2,730
+2020,6,2002,20,Village 31,Willow Grove Lane,1696 Willow Grove Lane,8912,2536,329,435,Estate,Tiburon,1,2,2,909
+2021,5,2003,19,Village 31,Coldwater Lane,2050 Coldwater Lane,10010,3536,329,435,Estate,Tiburon,1,2,2,1100
+2020,1,2003,19,Village 31,Prairie View Lane,1812 Prairie View Lane,8759,2801,280,420,Estate,Meadowgate,1,3,2,685
+2021,11,2003,19,Village 31,Coldwater Lane,1967 Coldwater Lane,11326,2955,280,420,Estate,Meadowgate,1,3,2,890
+2020,12,2005,17,Village 32,Deep Springs Court,109 Deep Springs Court,10829,2246,281,665,Estate,Napa,1,2,3,842
+2019,7,2005,17,Village 32,Deep Springs Lane,1897 Deep Springs Lane,8424,2246,281,665,Estate,Napa,1,2,3,770
+2019,8,2004,18,Village 32,Deep Springs Lane,1933 Deep Springs Lane,6777,2263,281,665,Estate,Napa,1,2,3,751
+2021,3,2004,18,Village 32,Deep Springs Lane,2010 Deep Springs Lane,11452,2264,281,665,Estate,Napa,1,2,2,832
+2020,10,2005,17,Village 32,Brockman Court,208 Brockman Court,9487,2240,281,665,Estate,Napa,1,2,3,744
+2019,5,2005,17,Village 32,Brockman Court,212 Brockman Court,12200,2281,281,665,Estate,Napa,1,2,3,850
+2019,5,2005,17,Village 32,Deep Springs Lane,1837 Deep Springs Lane,6690,2277,250,634,Estate,Shasta,1,2,2,634
+2020,8,2005,17,Village 32,Sutter View Lane,2341 Sutter View Lane,6760,2277,250,634,Estate,Shasta,1,2,2,730
+2019,5,2005,17,Village 32,Brockman Court,211 Brockman Court,12600,2635,296,634,Estate,Sonoma,1,2,2,855
+2021,12,2005,17,Village 32,Sutter View Lane,2444 Sutter View Lane,11326,2258,296,634,Estate,Sonoma,1,2,2,940
+2021,6,2005,17,Village 32,Sutter View Lane,2456 Sutter View Lane,11326,2635,296,634,Estate,Sonoma,1,2,2,965
+2019,6,2005,17,Village 32,Sutter View Lane,2300 Sutter View Lane,12600,2504,208,630,Estate,Marin,1,3,2,750
+2020,10,2004,18,Village 33,Loon Lake Lane,2402 Loon Lake Lane,10040,2258,281,665,Estate,Napa,1,2,3,847
+2020,5,2004,18,Village 33,Cinnamon Teal Lane,2245 Cinnamon Teal Lane,8076,1785,197,438,Estate,Santa Cruz,2,2,2,534
+2019,12,2004,18,Village 33,Cinnamon Teal Court,130 Cinnamon Teal Court,12200,3073,290,671,Estate,Santa Barbara,1,3,3,990
+2019,12,2004,18,Village 33,Cinnamon Teal Lane,2240 Cinnamon Teal Ln,8298,2848,290,671,Estate,Santa Barbara,1,3,2,965
+2019,6,2005,17,Village 34,Coopers Hawk Loop,2898 Coopers Hawk Loop,11800,1785,197,438,Estate,Santa Cruz,2,2,2,555
+2019,11,2005,17,Village 35,Blackhawk Lane,2669 Blackhawk Lane,8550,2264,281,665,Estate,Napa,1,2,3,795
+2021,12,2005,17,Village 35,Black Hawk Lane,2825 Black Hawk Lane,8616,1785,197,438,Estate,Santa Cruz,1,2,2,701
+2020,6,2005,17,Village 35,Black Hawk Lane,2568 Black Hawk Lane,7858,2262,250,634,Estate,Shasta,1,2,2,727
+2019,6,2005,17,Village 35,Black Hawk Lane,2748 Black Hawk Lane,8193,2277,250,634,Estate,Shasta,1,2,2,629
+2021,5,2005,17,Village 35,Black Hawk Lane,2748 Blackhawk Lane,8195,2277,250,634,Estate,Shasta,1,2,2,760
+2019,9,2004,18,Village 35,Blackhawk Lane,2652 Blackhawk Lane,11300,2831,296,634,Estate,Sonoma,1,2,2,768
+2020,8,2005,17,Village 35,Blackhawk Lane,2796 Black Hawk Lane,10524,2636,296,634,Estate,Sonoma,1,2,2,685
+2019,5,2005,17,Village 35,Black Hawk Lane,2753 Black Hawk Lane,9064,3081,290,671,Estate,Santa Barbara,1,3,2,772
+2020,7,2005,17,Village 35,Black Hawk Lane,2753 Black Hawk Lane,9064,3081,290,671,Estate,Santa Barbara,1,3,3,897
+2019,1,2004,18,Village  36,Longspur Loop,2157 Longspur Loop,7509,1785,197,438,Estate,Santa Cruz,2,2,2,500
+2019,12,2004,18,Village  36,Swainson Lane,2370 Swainson Lane,7954,1767,197,438,Estate,Santa Cruz,2,2,2,515
+2021,2,2003,19,Village 37,Lavender Hill Court,2191 Lavender Hill Court,13939,2258,283,665,Estate,Napa,1,2,2,890
+2020,12,2004,18,Village 37,Lavender Hill Court,2034 Lavender Hill Court,8712,1785,197,438,Estate,Santa Cruz,2,2,2,540
+2021,8,2003,19,Village 37,Ginger Hill Loop,2204 Ginger Hill Loop,10890,2495,208,630,Estate,Marin,1,3,2,819
+2021,2,2003,19,Village 38,Briarcliff Lane,2070 Briarcliff Lane,11326,2585,337,420,Estate,Monterey,1,2,2,679
+2021,7,2002,20,Village 38,Picket Fence Lane,1331 Picket Fence Lane,9744,2916,333,436,Estate,Springcrest,1,2,2,830
+2019,2,2003,19,Village 38,Springvale Lane,1804 Springvale Lane,8502,2360,240,665,Estate,Atherton,1,3,2,659
+2021,5,2003,19,Village 38,Springvale Lane,1804 Springvale Lane,8503,2360,240,665,Estate,Atherton,1,3,2,700
+2021,1,2002,20,Village 38,Pebblestone Lane,2170 Pebblestone Lane,7841,2360,240,665,Estate,Atherton,1,3,2,650
+2020,10,2000,22,Village 38,Briarcliff Lane,2000 Briarcliff Lane,9321,2955,280,420,Estate,Meadowgate,1,3,2,835
+2020,3,2003,19,Village 38,Pebblestone Lane,2320 Pebblestone Ln,10672,2801,280,420,Estate,Meadowgate,1,3,2,760
+2020,3,2003,19,Village 38,Trellis Ct,430 Trellis Ct,15100,2955,280,420,Estate,Meadowgate,1,3,2,795
+2019,5,2001,21,Village 38,Picket Fence Lane,1271 Picket Fence Lane,8472,2151,250,654,Estate,Sausalito,1,3,2,650
+2019,5,2003,19,Village 38,Briarcliff Lane,2040 Briarcliff Lane,9487,2151,250,654,Estate,Sausalito,1,3,2,634
+2021,3,2003,19,Village 38,Lockwood Lane,2077 Lockwood Lane,8856,2176,250,654,Estate,Sausalito,1,3,2,565
+2019,11,2002,20,Village 38,Pebblestone Lane,2161 Pebblestone Lane,10262,2176,250,654,Estate,Sausalito,1,3,2,633
+2021,10,2002,20,Village 38,Briarcliff Lane,2000 Briarcliff Lane,11300,2955,280,420,Estate,Meadowgate,1,4,2,835
+2020,10,2002,20,Village 39,Stone Hearth Lane,1324 Stone Hearth Lane,9077,2612,333,436,Estate,Springcrest,1,2,2,835
+2021,2,2001,21,Village 39,Stone Hearth Lane,1235 Stone Hearth Lane,7843,2536,329,435,Estate,Tiburon,1,2,2,699
+2019,11,2002,20,Village 39,Stone Hearth Lane,1249 Stone Hearth Lane,7853,2151,250,654,Estate,Sausalito,1,3,2,560
+2020,3,2001,21,Village 39,Stone Hearth Lane,1277 Stone Hearth Ln,8067,2176,250,654,Estate,Sausalito,1,3,2,639
+2021,11,2006,16,Village 41,Prunella Court,310 Prunella Court,11485,2264,281,665,Estate,Napa,1,2,2,900
+2019,6,2005,17,Village 41,Orchid Lane,719 Orchid Lane,7710,1782,197,438,Estate,Santa Cruz,2,2,2,559
+2019,9,2005,17,Village 41,Snapdragon Place,117 Snapdragon Place,13900,2831,296,634,Estate,Sonoma,1,2,2,882
+2021,3,2006,16,Village 41,Orchid Lane,635 Orchid Lane,9762,2853,290,671,Estate,Santa Barbara,1,3,2,895
+2019,4,2006,16,Village 41,Snapdragon Lane,449 Snapdragon Lane,8276,3086,300,665,Estate,Santa Clara,2,3,3,900
+2020,7,2006,16,Village 41,Snapdragon Lane,449 Snapdragon Lane,8276,3086,300,665,Estate,Santa Clara,2,3,3,856
+2021,12,2006,16,Village 41,Snapdragon Lane,305 Snapdragon Lane,8800,2263,250,634,Estate,Shasta,1,3,2,825
+2020,5,2005,17,Village 42,Freschi Lane,1308 Freschi Lane,7108,1785,197,438,Estate,Santa Cruz,2,2,2,610
+2021,7,2003,19,Village 54,Windmill Court,325 Windmill Court,10890,2536,329,435,Estate,Tiburon,1,2,2,889
+2021,2,2003,19,Village 54,Windmill Court,330 Windmill Court,13939,2536,329,435,Estate,Tiburon,1,2,2,739
+2021,4,2005,17,Village 1,Wagon Wheel Lane,905 Wagon Wheel Lane,7283,1854,219,438,Premier,Plumas,1,2,2,736
+2020,11,2005,17,Village 1,Wagon Wheel Lane,980 Wagon Wheel Lane,6972,1855,219,438,Premier,Plumas,1,2,2,529
+2019,1,2004,18,Village 2,Calistoga Lane,216 Calistoga Ln,6699,1967,260,420,Premier,El Dorado,1,2,2,545
+2021,4,2002,20,Village 2,Monument Court,2400 Monument Court,7179,1910,266,420,Premier,Fremont,1,2,2,710
+2021,7,2004,18,Village 2,Coach Light Lane,162 Coach Light Lane,7914,2390,254,436,Premier,San Mateo,1,2,2,730
+2021,3,2004,18,Village 2,Calistoga Lane,179 Calistoga Lane,6874,2390,254,436,Premier,San Mateo,1,2,2,850
+2021,1,2004,18,Village 2,Calistoga Court,402 Calistoga Court,9909,2163,260,420,Premier,El Dorado,1,3,3,595
+2020,4,2005,17,Village 3,Sawmill Lane,204 Sawmill Ln,7244,1953,260,420,Premier,El Dorado,1,2,2,610
+2019,12,2005,17,Village 3,Sawmill Lane,336 Sawmill Lane,7579,1967,260,420,Premier,El Dorado,1,2,2,599
+2019,12,2005,17,Village 3,Truchard Lane,1022 Truchard Lane,6873,1836,219,438,Premier,Plumas,1,2,2,593
+2021,5,2005,17,Village 3,Truchard Lane,1106 Truchard Lane,8077,2079,219,438,Premier,Plumas,1,2,2,718
+2019,11,2005,17,Village 3,Truchard Lane,1271 Truchard Lane,6751,2372,254,436,Premier,San Mateo,1,2,2,540
+2021,1,2005,17,Village 3,Sawmill Lane,297 Sawmill Lane,6827,2192,260,420,Premier,El Dorado,1,3,3,670
+2019,4,2003,19,Village 4,Stockman Lane,645 Stockman Lane,5227,1473,192,420,Premier,Almanor,1,2,2,463
+2021,6,2003,19,Village 4,Saddlehorn Loop,227 Saddlehorn Loop,8764,1687,208,630,Premier,Baldwin,1,2,2,557
+2021,7,2004,18,Village 4,Lasso Lake Lane,1120 Lasso Lake Lane,9209,1967,260,420,Premier,El Dorado,1,2,2,630
+2021,7,2003,19,Village 4,Saddlehorn Loop,211 Saddlehorn Loop,6791,1715,194,436,Premier,Mendocino,1,2,2,635
+2021,10,2004,18,Village 4,Lasso Lake Lane,1281 Lasso Lake Lane,6970,1854,219,438,Premier,Plumas,1,2,2,825
+2021,5,2004,18,Village 4,Longhorn Lane,1137 Longhorn Lane,6737,2128,254,436,Premier,San Mateo,1,2,2,710
+2020,5,2004,18,Village 4,Lasso Lake Lane,1188 Lasso Lake Lane,7365,2390,254,436,Premier,San Mateo,1,2,2,695
+2019,6,2004,18,Village 4,Longhorn Lane,1170 Longhorn Lane,7230,2128,236,438,Premier,Ventura,1,3,2,710
+2019,8,2003,19,Village 5,Rustic Ranch Court,404 Rustic Ranch Court,7074,1967,260,420,Premier,El Dorado,1,2,2,540
+2021,10,2003,19,Village 5,Rustic Ranch Lane,632 Rustic Ranch Lane,6660,1949,260,420,Premier,El Dorado,1,2,2,680
+2021,12,2002,20,Village 5,Lariat Place,215 Lariat Place,9600,2073,208,630,Premier,Annadel,1,3,2,727
+2020,3,2002,20,Village 6,Lariat Loop,288 Lariat Loop,11300,1791,207,449,Premier,Tahoe,1,2,2,515
+2020,3,2001,21,Village 7,Shadow Glen Ct,1302 Shadow Glen Ct,76230,1791,207,449,Premier,Tahoe,1,2,2,475
+2019,4,2001,21,Village 7,Northfield Lane,829 Northfield Lane,6738,2073,208,630,Premier,Annadel,1,3,2,639
+2020,3,2001,21,Village 8,Lakefield Court,137 Lakefield Court,7444,1910,266,420,Premier,Fremont,1,2,2,557
+2019,2,2001,21,Village 9,Gold Strike Court,644 Gold Strike Court,8189,1791,207,449,Premier,Tahoe,1,2,2,480
+2019,6,2001,21,Village 9,Gold Nugget Circle,981 Gold Nugget Circle,7392,1791,207,449,Premier,Tahoe,1,2,2,525
+2019,9,2001,21,Village 9,Gold Nugget Circle,950 Gold Nugget Circle,9016,2025,208,630,Premier,Annadel,1,3,2,771
+2021,4,2001,21,Village 9,Gold Nugget Circle,950 Gold Nugget Circle,9034,2025,208,630,Premier,Annadel,1,3,2,825
+2021,6,2001,21,Village 9,Gold Nugget Circle,998 Gold Nugget Circle,7858,2073,208,630,Premier,Annadel,1,3,2,600
+2020,7,2004,18,Village 10,Hawthorne Lane,1314 Hawthorne Lane,7418,1967,260,420,Premier,El Dorado,1,2,2,564
+2021,10,2004,18,Village 10,Mariemont Court,210 Mariemont Court,9864,2192,260,420,Premier,El Dorado,1,2,2,880
+2021,5,2004,18,Village 10,Olema Place,411 Olema Place,7322,2150,260,420,Premier,El Dorado,1,2,2,673
+2021,1,2004,18,Village 10,Hawthrone Lane,1290 Hawthrone Lane,6755,1854,207,449,Premier,Tahoe,1,2,2,549
+2021,3,2004,18,Village 10,Hawthorne Lane,1271 Hawthorne Lane,7057,2128,236,438,Premier,Ventura,1,3,2,700
+2021,1,2002,20,Village 11,Montgomery Court,510 Montgomery Court,11326,2188,266,420,Premier,Fremont,1,2,2,670
+2019,12,2002,20,Village 11,Yerington Lane,624 Yerington Lane,7940,1791,207,449,Premier,Tahoe,1,2,2,580
+2020,10,2002,20,Village 11,Yerington Lane,624 Yerington Lane,7940,1791,207,449,Premier,Tahoe,1,2,2,600
+2019,11,2002,20,Village 12,Summerhill Lane,1587 Summerhill Lane,6973,1710,208,630,Premier,Baldwin,1,2,2,540
+2020,8,2001,21,Village 12,Summerhill Lane,1558 Summerhill Lane,8807,2080,266,420,Premier,Fremont,1,2,2,755
+2021,5,2001,21,Village 12,Summerhill Lane,1581 Summerhill Lane,7165,1791,207,449,Premier,Tahoe,1,2,2,610
+2021,8,2001,21,Village 12,Shire Court,840 Shire Court,10324,2073,208,630,Premier,Annadel,1,3,2,630
+2019,1,2000,22,Villge 14,Bridalveil Ln,883 Bridalveil Ln,7923,1910,266,420,Premier,Fremont,1,2,2,622
+2020,7,2000,22,Villge 14,Yosemite Lane,910 Yosemite Lane,6660,1910,266,420,Premier,Fremont,1,2,2,610
+2020,3,2000,22,Villge 14,Tioga Court,1010 Tioga Ct,7091,1626,168,205,Premier,Lassen,1,2,2,445
+2021,5,2000,22,Villge 14,Tioga Court,1043 Tioga Court,7249,1873,168,205,Premier,Lassen,1,2,2,575
+2020,2,2000,22,Village 15,Dogwood Loop,805 Dogwood Loop,7688,1473,192,420,Premier,Almanor,1,2,2,466
+2021,6,2000,22,Village 15,Dogwood Loop,908 Dogwood Loop,5440,1449,192,420,Premier,Almanor,1,2,2,500
+2020,8,1999,23,Village 15,Blossom Lane,746 Blossom Lane,7108,2187,266,420,Premier,Fremont,1,2,2,649
+2019,9,2000,22,Village 15,Cottonwood Court,862 Cottonwood Court,6638,1910,266,420,Premier,Fremont,1,2,2,505
+2020,12,2000,22,Village 15,Dogwood Loop,948 Dogwood Loop,6098,1910,266,420,Premier,Fremont,1,2,2,509
+2020,5,2000,22,Village 15,Dogwood Loop,1095 Dogwood Loop,5828,1687,168,205,Premier,Lassen,1,2,2,537
+2021,4,2000,22,Village 15,Dogwood Loop,1015 Dogwood  Loop,1734,2068,207,449,Premier,Tahoe,1,2,2,760
+2021,10,2000,22,Village 15,Dogwood Loop,1035 Dogwood Loop,7139,1791,207,449,Premier,Tahoe,1,2,2,735
+2020,11,1999,23,Village 15,Canyon Oak Lane,657 Canyon Oak Lane,7988,2049,208,630,Premier,Annadel,1,3,2,635
+2020,10,2001,21,Village 15,Canyon Oak Lane,728 Canyonn Oak Lane,7893,2151,208,630,Premier,Annadel,1,3,2,760
+2020,3,2000,22,Village 15,Blossom Lane,749 Blossom Ln,8833,2073,208,630,Premier,Annadel,1,3,2,640
+2020,10,2000,22,Village 15,Cottonwood Court,859 Cottonwood Court,9112,2049,208,630,Premier,Annadel,1,3,2,675
+2019,12,1999,23,Village 16,Secret Lake Loop,1301 Secret Lake Loop,8110,1473,192,420,Premier,Almanor,1,2,2,445
+2021,7,2000,22,Village 16,Hackberry Lane,1597 Hackberry Lane,8194,1449,192,420,Premier,Almanor,1,2,2,540
+2021,8,1999,23,Village 16,Castleberry Lane,947 Castleberry Lane,6407,1449,192,420,Premier,Almanor,1,2,2,545
+2021,7,1999,23,Village 16,Sun Trail Lane,1180 Sun Trail Lane,7759,1706,208,630,Premier,Baldwin,1,2,2,550
+2019,8,2000,22,Village 16,Magnolia Lane,1009 Magnolia Lane,6638,2382,266,420,Premier,Fremont,1,2,2,725
+2020,8,1999,23,Village 16,Magnolia Lane,1009 Magnolia Lane,7069,2382,266,420,Premier,Fremont,1,2,2,740
+2021,11,1999,23,Village 16,Magnolia Lane,1016 Magnolia Lane,8078,2163,266,420,Premier,Fremont,1,2,2,785
+2020,11,1999,23,Village 16,Magnolia Lane,1057 Magnolia Lane,7318,1910,266,420,Premier,Fremont,1,2,2,560
+2019,12,1999,23,Village 16,Stone Pine Lane,1035 Stone Pine Lane,8193,1626,168,205,Premier,Lassen,1,2,2,478
+2020,6,1999,23,Village 16,Peak View Court,1290 Peak View Court,7697,1714,168,205,Premier,Lassen,1,2,2,465
+2020,12,1999,23,Village 16,Magnolia Lane,884 Magnolia Lane,1603,1602,168,205,Premier,Lassen,1,2,2,480
+2021,5,1999,23,Village 16,Magnolia Lane,1064 Magnolia Lane,8762,1791,207,449,Premier,Tahoe,1,2,2,635
+2020,12,1999,23,Village 16,Silver Fork Court,1250 Silver Fork Court,10267,1791,207,449,Premier,Tahoe,1,2,2,679
+2021,2,1999,23,Village 16,Castleberry Lane,803 Castleberry Lane,8959,2073,207,449,Premier,Tahoe,1,2,2,625
+2021,10,1999,23,Village 16,Magnolia Lane,812 Magnolia Lane,7818,1791,207,449,Premier,Tahoe,1,2,2,620
+2021,3,1999,23,Village 16,Magnolia Lane,824 Magnolia Lane,8168,1791,207,449,Premier,Tahoe,1,2,2,600
+2021,5,1999,23,Village 16,Paragon Lane,1045 Paragon Lane,10346,2073,208,630,Premier,Annadel,1,3,2,731
+2020,12,1999,23,Village 18,Fairway Valley Lane,1043 Fairway Valley Lane,6603,1449,192,420,Premier,Almanor,1,2,2,495
+2019,1,2006,16,Village 18,Sun Valley Loop,1100 Sun Valley Loop,10306,2390,254,436,Premier,San Mateo,1,2,2,590
+2021,4,2006,16,Village 18,Sun Valley Loop,1111 Sun Valley Loop,8246,2372,254,436,Premier,San Mateo,1,2,2,690
+2021,4,2006,16,Village 18,Sun Valley Loop,1120 Sun Valley Loop,7680,2390,254,436,Premier,San Mateo,1,2,2,715
+2019,6,2001,21,Village 18,Fairway Valley Court,1267 Fairway Valley Court,7405,2073,208,630,Premier,Annadel,1,3,2,595
+2020,10,2001,21,Village 19,Andover Lane,1708 Andover Lane,5902,1449,192,420,Premier,Almanor,1,2,2,430
+2020,4,2002,20,Village 19,Winding Way,2201 Winding Way,6603,1473,192,420,Premier,Almanor,1,2,2,440
+2020,10,2000,22,Village 19,Gardner Court,902 Gardner Court,7932,1473,192,420,Premier,Almanor,1,2,2,497
+2020,9,2001,21,Village 19,Monument Drive,1825 Monument Drive,8781,1720,208,630,Premier,Baldwin,1,2,2,566
+2020,12,2001,21,Village 19,Andover Lane,1751 Andover Lane,9082,1910,266,420,Premier,Fremont,1,2,2,586
+2021,10,2000,22,Village 19,Monument Drive,1766 Monument Drive,6691,1910,266,420,Premier,Fremont,1,2,2,741
+2019,2,2000,22,Village 19,Monument Drive,1778 Monument Drive,6738,2152,266,420,Premier,Fremont,1,2,2,650
+2020,1,2002,20,Village 19,Monument Drive,2164 Monument Drive,8777,1910,266,420,Premier,Fremont,1,2,2,555
+2019,9,2001,21,Village 19,Anton Court,895 Anton Court,10393,1910,266,420,Premier,Fremont,1,2,2,547
+2021,10,2001,21,Village 19,Anton Court,925 Anton Court,16117,2187,266,420,Premier,Fremont,1,2,2,780
+2020,9,2001,21,Village 19,Andover Lane,1631 Andover Lane,8468,1626,168,205,Premier,Lassen,1,2,2,490
+2021,4,2000,22,Village 19,Winding Way,1646 Winding Way,6345,1626,168,205,Premier,Lassen,1,2,2,550
+2021,4,2001,21,Village 19,Monument Drive,1777 Monument Drive,8634,1602,168,205,Premier,Lassen,1,2,2,560
+2020,12,2001,21,Village 19,Monument Drive,1873 Monument Drive,7566,1626,168,205,Premier,Lassen,1,2,2,505
+2020,3,2001,21,Village 19,Anton Lane,860 Anton Ln,7244,1626,168,205,Premier,Lassen,1,2,2,430
+2020,4,2001,21,Village 19,Cricket Court,1005 Cricket Ct,14800,2090,207,449,Premier,Tahoe,1,2,2,580
+2021,10,2001,21,Village 19,Andover Lane,1720 Andover Lane,7536,2068,207,449,Premier,Tahoe,1,2,2,717
+2020,2,2000,22,Village 19,Beckwith Lane,1778 Beckwith Lane,8084,1767,207,449,Premier,Tahoe,1,2,2,520
+2021,5,2000,22,Village 19,Winding Way,1790 Winding Way,7979,1791,207,449,Premier,Tahoe,1,2,2,700
+2021,3,2001,21,Village 19,Winding Way ,1984 Winding Way ,7205,1791,207,449,Premier,Tahoe,1,2,2,586
+2019,4,2001,21,Village 19,Winding Way,2105 Winding Way,8150,1791,207,449,Premier,Tahoe,1,2,2,555
+2020,7,2002,20,Village 19,Winding Way,2164 Winding Way,8624,2090,207,449,Premier,Tahoe,1,2,2,630
+2020,6,2002,20,Village 19,Winding Way,2380 Winding Way,7296,1791,207,449,Premier,Tahoe,1,2,2,620
+2019,12,2001,21,Village 19,Slawson Lane,887 Slawson Lane,7697,1767,207,449,Premier,Tahoe,1,2,2,575
+2020,3,2001,21,Village 19,Winding Way,1898 Winding Way,7667,2073,208,630,Premier,Annadel,1,3,2,640
+2020,2,2001,21,Village 19,Winding Way,2044 Winding Way,7766,2073,208,630,Premier,Annadel,1,3,2,610
+2020,12,2001,21,Village 19,Wildomar Lane,873 Wildomar Lane,8276,2049,208,630,Premier,Annadel,1,3,2,668
+2020,4,2001,21,Village 19,Wildomar Lane,880 Wildomar Lane,8228,2073,208,630,Premier,Annadel,1,3,2,619
+2021,8,2001,21,Village 20,Creekcrest Lane,1715 Creekcrest Lane,8128,1456,192,420,Premier,Almanor,1,2,2,689
+2019,5,2001,21,Village 20,Starview Lane,1780 Starview Lane,8110,1687,208,630,Premier,Baldwin,1,2,2,510
+2019,7,2001,21,Village 20,Alpenglow Lane,1817 Aplenglow Lane,6969,2086,266,420,Premier,Fremont,1,2,2,620
+2019,11,2001,21,Village 20,Starview Lane,1905 Starview Lane,7335,1791,207,449,Premier,Tahoe,1,2,2,560
+2019,5,2001,21,Village 20,Creekcrest Court,2078 Creekcrest Court,10776,1791,207,449,Premier,Tahoe,1,2,2,585
+2021,10,2001,21,Village 20,Creekcrest Lane,1841 Creekcrest Lane,8202,2073,208,630,Premier,Annadel,1,3,2,845
+2021,6,2001,21,Village 20,Creekcrest Lane,1911 Creekcrest Lane,8391,2049,208,630,Premier,Annadel,1,3,2,735
+2021,7,2001,21,Village 20,Creekcrest Lane,1946 Creekcrest Lane,10683,2073,208,630,Premier,Annadel,1,3,2,745
+2020,1,2001,21,Village 21,Hidden Hills Lane,2445 Hidden Hills Lane,7801,1687,208,630,Premier,Baldwin,1,2,2,528
+2021,12,2002,20,Village 21,Boulder Lane,885 Boulder Lane,7100,1687,208,630,Premier,Baldwin,1,2,2,569
+2021,8,2003,19,Village 21,Hidden Hills Lane,2340 Hidden Hills Lane,6914,2163,266,420,Premier,Fremont,1,2,2,811
+2020,3,2002,20,Village 21,Granite Falls Lane,888 Granite Falls Ln,9204,2050,266,420,Premier,Fremont,1,2,2,615
+2019,4,2002,20,Village 21,Hidden Hills Lane,2435 Hidden Hills Lane,7444,1791,207,449,Premier,Tahoe,1,2,2,519
+2020,8,2002,20,Village 21,Rocky Ridge Lane,852 Rocky Ridge Lane,8306,1791,207,449,Premier,Tahoe,1,2,2,538
+2021,6,2001,21,Village 21,Granite Lane,2358 Granite Lane,9128,2073,208,630,Premier,Annadel,1,3,2,715
+2019,6,2002,20,Villagre 22,Hillhaven Lane,1290 Hillhaven Lane,9635,1449,192,420,Premier,Almanor,2,2,2,456
+2020,11,2002,20,Villagre 22,Woodacre Lane,2669 Woodacre Lane,6512,1449,192,420,Premier,Almanor,1,2,2,540
+2021,5,2002,20,Villagre 22,Woodacre Lane,2669 Woodacre Lane,6512,1449,192,420,Premier,Almanor,1,2,2,575
+2020,8,2002,20,Villagre 22,Woodacre Lane,2663 Woodacre Lane,10018,2057,266,420,Premier,Fremont,1,2,2,649
+2021,12,2002,20,Villagre 22,Woodacre Lane,2717 Woodacre Lane,6421,1602,168,205,Premier,Lassen,1,2,2,560
+2021,6,2002,20,Villagre 22,Woodacre Lane,2657 Woodacre Lane,8990,1791,207,449,Premier,Tahoe,1,2,2,655
+2021,1,2002,20,Village 23,Fountain Hill Loop,2405 Fountain Hill Loop,8878,2269,208,630,Premier,Annadel,1,3,2,750
+2021,6,2003,19,Village 24,Turtledove Court,107 Turtledove Court,11761,1966,260,420,Premier,El Dorado,1,2,2,771
+2020,9,2003,19,Village 24,Grand Pheasant Lane,1562 Grand Pheasant Lane,9317,1967,260,420,Premier,El Dorado,1,2,2,595
+2020,12,2003,19,Village 24,Grand Pheasant Lane,1574 Grand Pheasant Lane,11300,1967,260,420,Premier,El Dorado,1,2,2,620
+2021,8,2004,18,Village 24,Grand Pheasant Lane,1742 Grand Pheasant Lane,9363,1967,260,420,Premier,El Dorado,1,2,2,700
+2019,1,2003,19,Village 24,Kingfisher Lane,2346 Kingfisher Ln,9600,1967,260,420,Premier,El Dorado,1,2,2,515
+2020,7,2003,19,Village 24,Merlin Court,611 Merlin Court,9147,2192,260,420,Premier,El Dorado,1,2,2,659
+2020,9,2004,18,Village 24,Blue Heron Loop,2480 Blue Heron Loop,7762,2128,236,438,Premier,Ventura,1,3,2,700
+2021,6,2005,17,Village 25,Audubon Hill Place,1781 Audubon Hill Place,8926,1935,260,420,Premier,El Dorado,1,2,2,695
+2021,4,2004,18,Village 25,Walden View Lane,2238 Walden View Lane,7100,1967,260,420,Premier,El Dorado,1,2,2,659
+2021,12,2004,18,Village 25,Walden View Lane,2214 Walden View Lane,8555,1837,260,420,Premier,Plumas,1,2,2,665
+2021,12,2004,18,Village 25,Walden View Lane,2339 Walden View Lane,5948,2129,260,420,Premier,Plumas,1,2,3,1003
+2019,9,2004,18,Village 25,Walden View Lane,2418 Walden View Lane,7200,1854,219,438,Premier,Plumas,1,2,2,598
+2019,9,2004,18,Village 25,Walden View Lane,2478 Walden View Lane,6708,1854,219,438,Premier,Plumas,1,2,2,640
+2020,9,2004,18,Village 25,Walden View Lane,2526 Walden View Lane,6682,2372,254,436,Premier,San Mateo,1,2,2,618
+2021,11,2004,18,Village 25,Walden View Court,100 Walden View Court,10058,2238,236,438,Premier,Ventura,1,3,2,740
+2020,10,2003,19,Village 26,Tallac Lane,1361 Tallac Lane,7840,1473,192,420,Premier,Almanor,1,2,2,490
+2020,4,2003,19,Village 26,Tallac Lane,1409 Tallac Ln,6813,1449,192,420,Premier,Almanor,1,2,2,435
+2020,11,2003,19,Village 26,Homewood Lane,1932 Homewood Lane,5654,1473,192,420,Premier,Almanor,1,2,2,511
+2020,9,2003,19,Village 26,Homewood Lane,1857 Homewood Lane,8738,1687,208,630,Premier,Baldwin,1,2,2,515
+2019,5,2003,19,Village 26,Tallac Lane,1301 Tallac Lane,11300,2188,266,420,Premier,Fremont,1,2,2,615
+2019,8,2003,19,Village 26,Fallen Leaf Lane,1769 Fallen Leaf Lane,7962,2082,266,420,Premier,Fremont,1,2,2,705
+2019,1,2003,19,Village 26,Homewood Ln,1863 Homewood Ln,9552,1715,194,436,Premier,Mendocino,1,2,2,528
+2019,1,2003,19,Village 26,Glenbrook Ln,1705 Glenbrook Ln,9779,1791,207,449,Premier,Tahoe,1,2,2,533
+2020,12,2003,19,Village 26,Glenbrook Lane,1724 Glenbrook Lane,7884,1791,207,449,Premier,Tahoe,1,2,2,595
+2019,4,2003,19,Village 26,Echo Lane,1861 Echo Lane,11800,2068,207,449,Premier,Tahoe,1,2,2,675
+2020,12,2003,19,Village 26,Fallen Leaf Lane,1643 Fallen Leaf Lane,9291,2073,208,630,Premier,Annadel,1,3,2,699
+2020,2,2003,19,Village 26,Homewood Lane,1806 Homewood Lane,8280,2026,208,630,Premier,Annadel,1,3,2,630
+2019,4,2003,19,Village 26,Fallen Leaf Lane,1839 Fallen Leaf Lane,9404,2026,208,630,Premier,Annadel,1,3,2,720
+2020,4,2003,19,Village 26,Glenbrook Ln,1872 Glenbrook Ln,8746,2049,208,630,Premier,Annadel,1,3,2,745
+2020,7,2000,22,Village 27,Stillwater Lane,500 Stillwater Lane,9757,2073,208,630,Premier,Annadel,1,3,2,627
+2020,9,2000,22,Village  28,Barnswood Loop,1152 Barnswood Loop,8084,1910,266,420,Premier,Fremont,1,2,2,550
+2021,5,2000,22,Village  28,Barnswood Loop,1142 Barnswood Loop,8329,1791,207,449,Premier,Tahoe,1,2,2,699
+2021,6,2000,22,Village  28,Barn Valley Lane,1624 Barn Valley Lane,7623,1791,207,449,Premier,Tahoe,1,2,2,720
+2021,12,2000,22,Village 29,Huntsman Court,460 Huntsman Court,8315,1473,192,420,Premier,Almanor,1,2,2,572
+2020,6,2000,22,Village 29,Huntsman Court,445 Huntsman Court,7305,2211,266,420,Premier,Fremont,1,2,2,615
+2021,5,2001,21,Village 29,Rose Bouquet Lane,1375 Rose Bouquet Lane,6003,1626,168,205,Premier,Lassen,1,2,2,555
+2019,4,2000,22,Village 29,Farmgate Lane,1844 Farmgate Lane,5950,1626,168,205,Premier,Lassen,1,2,2,470
+2021,12,2000,22,Village 29,Shepherds Ct,323 Shepherds Ct,6033,1626,168,205,Premier,Lassen,1,2,2,599
+2021,8,2001,21,Village 29,Rose Bouquet Drive,1307 Rose Bouquet Drive,6835,1791,207,449,Premier,Tahoe,1,2,2,600
+2021,4,2000,22,Village 29,Rose Bouquet Drive,1347 Rose Bouquet Drive,7688,1791,207,449,Premier,Tahoe,1,2,2,605
+2020,3,2001,21,Village 29,Rose Bouquet Drive,1444 Rose Bouquet Dr,7074,1791,207,449,Premier,Tahoe,1,2,2,459
+2019,4,2001,21,Village 30,Emily Lane,1754 Emily Lane,8107,1473,192,420,Premier,Almanor,1,2,2,423
+2019,9,2000,22,Village 30,Gingersnap Lane,1850 Gingersnap Lane,6865,1473,192,420,Premier,Almanor,1,2,2,485
+2019,4,2000,22,Village 30,Mary Rose Lane,2025 Mary Rose Lane,5427,1449,192,420,Premier,Almanor,1,2,2,465
+2021,12,2000,22,Village 30,Emily Lane,1839 Emily Lane,7863,1515,208,630,Premier,Annadel,1,2,2,792
+2021,11,2000,22,Village 30,Mary Rose Lane,1970 Mary Rose Lane,10600,1687,208,630,Premier,Baldwin,1,2,2,610
+2020,8,2001,21,Village 30,Gingersnap Lane,1619 Gingersnap Lane,8158,2231,266,420,Premier,Fremont,1,2,2,585
+2020,1,2000,22,Village 30,Cottage Rose Lane,1704 Cottage Rose Lane,10110,1910,266,420,Premier,Fremont,1,2,2,569
+2019,9,2001,21,Village 30,Gingersnap Lane,1864 Gingersnap Lane,7762,2134,266,420,Premier,Fremont,1,2,2,642
+2021,10,2000,22,Village 30,Carrousel Court,820 Carrousel Court,9322,2187,266,420,Premier,Fremont,1,2,2,850
+2021,3,2000,22,Village 30,Perdita Lane,1367 Perdita Lane,8716,1626,168,205,Premier,Lassen,1,2,2,547
+2021,6,2001,21,Village 30,Mary Rose Lane,1840 Mary Rose Lane,6926,1578,168,205,Premier,Lassen,1,2,2,540
+2019,4,2001,21,Village 30,Mary Rose Lane,1955 Mary Rose Lane,6786,1602,168,205,Premier,Lassen,1,2,2,425
+2021,3,2000,22,Village 30,Chianti Court,510 Chianti Court,10550,1626,168,205,Premier,Lassen,1,2,2,525
+2019,2,2000,22,Village 30,Perdita Lane,1514 Perdita Lane,7013,1791,207,449,Premier,Tahoe,1,2,2,545
+2019,8,2000,22,Village 30,Mary Rose Lane,1665 Mary Rose Lane,8333,1791,207,449,Premier,Tahoe,1,2,2,529
+2021,3,2000,22,Village 30,Gingersnap Lane,1717 Gingersnap Lane,6909,1767,207,449,Premier,Tahoe,1,2,2,585
+2021,10,2001,21,Village 30,Cottage Rose Lane,1718 Cottage Rose Lane,8112,1791,207,449,Premier,Tahoe,1,2,2,711
+2021,6,2000,22,Village 30,Dapple Dawn Lane,1424 Dapple Dawn Lane,9898,2025,208,630,Premier,Annadel,1,3,2,900
+2021,7,2000,22,Village 30,Dapple Dawn Lane,1461 Dapple Dawn Lane,10477,2673,208,630,Premier,Annadel,1,3,2,695
+2021,10,2000,22,Village 30,Perdita Lane,1478 Perdita Lane,8211,2073,208,630,Premier,Annadel,1,3,2,705
+2020,2,2000,22,Village 30,Dapple Dawn Lane,1573 Dapple Dawn Lane,10000,2073,208,630,Premier,Annadel,1,3,2,620
+2020,10,2000,22,Village 30,Sweet Juliet Lane,1598 Sweet Juliet Lane,7710,2073,208,630,Premier,Annadel,1,3,2,614
+2020,3,2000,22,Village 30,Mary Rose Lane,1665 Mary Rose Lane,9465,2049,208,630,Premier,Annadel,1,3,2,610
+2021,10,2000,22,Village 30,Chianti Court,570 Chianti Court,13504,2193,208,630,Premier,Annadel,1,3,2,880
+2019,4,2003,19,Village 31,Hawk Hill Lane,1927 Hawk Hill Lane,5998,1697,192,420,Premier,Almanor,1,2,2,475
+2020,6,2003,19,Village 31,Hawk Hill Lane,1947 Hawk Hill Lane,7683,1449,192,420,Premier,Almanor,1,2,2,400
+2021,6,2003,19,Village 31,Prairie View Lane,2185 Prairie View Lane,7432,1449,192,420,Premier,Almanor,1,2,2,555
+2020,11,2003,19,Village 31,Hidden Hollow Lane,1885 Hidden Hollow Lane,7291,1626,168,205,Premier,Lassen,1,2,2,485
+2019,2,2002,20,Village 31,Graeagle Lane,1855 Graeagle Lane,6163,1715,194,436,Premier,Mendocino,1,2,2,530
+2021,4,2003,19,Village 31,Duckhorn Lane,1851 Duckhorn Lane,7919,1595,207,449,Premier,Tahoe,1,2,2,563
+2021,1,2003,19,Village 31,Hawk Hill Lane,1856 Hawk Hill Lane,11326,2049,208,630,Premier,Annadel,1,3,2,565
+2020,8,2003,19,Village 31,Hawk Hill Lane,1877 Hawk Hill Lane,10201,2026,208,630,Premier,Annadel,1,3,2,700
+2021,8,2003,19,Village 31,Graeagle Lane,1935 Graeagle Lane,8756,2073,208,630,Premier,Annadel,1,3,2,750
+2019,4,2003,19,Village 31,Coldwater Lane,2120 Coldwater Lane,8912,2073,208,630,Premier,Annadel,1,3,2,665
+2019,8,2004,18,Village 33,Cinnamon Teal Court,111 Cinnamon Teal Court,7474,1967,260,420,Premier,El Dorado,1,2,2,613
+2021,3,2004,18,Village 33,Cinnamon Teal Court,101 Cinnamon Teal Court,7884,1854,219,438,Premier,Plumas,1,2,2,664
+2021,5,2004,18,Village 33,Loon Lake Court,620 Loon Lake Court,6638,1854,219,438,Premier,Plumas,1,2,2,866
+2021,1,2004,18,Village 33,Cinnamon Teal Court,131 Cinnamon Teal Court,8829,2390,254,436,Premier,San Mateo,1,2,2,622
+2020,8,2004,18,Village 33,Loon Lake Ct.,630 Loon Lake Ct.,6886,2246,254,436,Premier,San Mateo,1,2,2,749
+2020,3,2004,18,Village 33,Cinnamon Teal Court,121 Cinnamon Teal Ct,7871,2128,236,438,Premier,Ventura,1,3,2,635
+2021,7,2004,18,Village 33,Cinnamon Teal Lane,2288 Cinnamon Teal Lane,7484,2128,236,438,Premier,Ventura,1,3,2,828
+2020,11,2004,18,Village 34,Blackbird Lane,1805 Blackbird Lane,9147,1854,219,438,Premier,Plumas,1,2,2,520
+2021,7,2004,18,Village 34,Blackbird Lane,1908 Blackbird Lane,8206,2128,254,436,Premier,San Mateo,1,2,2,670
+2020,8,2004,18,Village 34,Cliff Swallow Lane,1810 Cliff Swallow Lane,6886,2120,236,438,Premier,Ventura,1,3,2,577
+2020,12,2004,18,Village 34,Blackbird Lane,1937 Blackbird Lane,8616,2238,236,438,Premier,Ventura,1,3,2,580
+2019,6,2005,17,Village 35,Eagles Peak Lane,2780 Eagles Peak,8182,1837,219,438,Premier,Plumas,1,2,2,588
+2020,4,2005,17,Village 35,Black Hawk Ln,2784 Black Hawk Ln,8154,1855,219,438,Premier,Plumas,1,2,2,549
+2021,4,2005,17,Village 35,Eagles Peak Lane,2823 Eagles Peak ,7832,1855,219,438,Premier,Plumas,1,2,2,600
+2021,8,2005,17,Village 35,Black Hawk Lane,2885 Black Hawk Lane,7762,2128,236,438,Premier,Ventura,1,3,2,682
+2021,2,2004,18,Village  36,Arrowhead Court,113 Arrowhead Court,14914,1967,260,420,Premier,El Dorado,1,2,2,625
+2020,10,2004,18,Village  36,Longspur Loop,2325 Longspur Loop,7117,1949,260,420,Premier,El Dorado,1,2,2,660
+2019,11,2004,18,Village  36,Arrowhead Court,100 Arrowhead Court,10267,1854,219,438,Premier,Plumas,1,2,2,545
+2019,8,2004,18,Village  36,Longspur Loop,2270 Longspur Loop,7958,1860,219,438,Premier,Plumas,1,2,2,584
+2020,12,2004,18,Village  36,Swainson Lane,2449 Swainson Lane,7374,1836,219,438,Premier,Plumas,1,2,2,595
+2019,6,2004,18,Village  36,Rubicon Lane,2480 Rubicon Lane,6307,1854,219,438,Premier,Plumas,1,2,2,537
+2020,11,2004,18,Village 37,Lavender Hill Court,2118 Lavender Hill Court,7444,1967,260,420,Premier,El Dorado,1,2,2,585
+2021,12,2002,20,Village 38,Ivy Arbor Lane,1461 Ivy Arbor Lane,5754,1449,192,420,Premier,Almanor,1,2,2,570
+2020,2,2002,20,Village 38,Briarcliff Lane,1970 Briarcliff Lane,6080,1449,192,420,Premier,Almanor,1,2,2,458
+2020,8,2002,20,Village 38,Stonecrest Lane,2059 Stonecrest Lane,6564,1449,192,420,Premier,Almanor,1,2,2,460
+2020,9,2002,20,Village 38,Lamplight Lane,2251 Lamplight Lane,6551,1449,192,420,Premier,Almanor,1,2,2,432
+2021,4,2003,19,Village 38,Bluestone Lane,2270 Bluestone Lane,5876,1449,192,420,Premier,Almanor,1,2,2,534
+2019,4,2001,21,Village 38,Picket Fence Lane,1199 Picket Fence Lane,6773,1687,208,630,Premier,Baldwin,1,2,2,515
+2021,4,2003,19,Village 38,Stonecrest Lane,2049 Stonecrest Lane,7153,1706,208,630,Premier,Baldwin,1,2,2,545
+2020,12,2002,20,Village 38,Ivy Arbor Lane,1380 Ivy Arbor Lane,9147,1886,266,420,Premier,Fremont,1,2,2,600
+2020,7,2002,20,Village 38,Stonecrest Lane,2081 Stonecrest Lane,10158,2219,266,420,Premier,Fremont,1,2,2,589
+2019,1,2002,20,Village 38,Ivy Arbor Lane,1112 Ivy Arbor Ln,7383,1602,168,205,Premier,Lassen,1,2,2,443
+2020,10,2002,20,Village 38,Ivy Arbor Lane,1350 Ivy Arbor Lane,8276,1626,168,205,Premier,Lassen,1,2,2,436
+2019,2,2004,18,Village 38,Laurelhurst Lane,1885 Laurelhurst Lane,5706,1602,168,205,Premier,Lassen,1,2,2,453
+2021,10,2003,19,Village 38,Laurelhurst Lane,1975 Laurelhurst Lane,7725,1626,168,205,Premier,Lassen,1,2,2,610
+2021,3,2003,19,Village 38,Stonecrest Lane,2028 Stonecrest Lane,7450,1626,168,205,Premier,Lassen,1,2,2,519
+2020,10,2003,19,Village 38,Laurelhurst Lane,2060 Laurelhurst Lane,7409,1626,168,205,Premier,Lassen,1,2,2,524
+2021,5,2003,19,Village 38,Lockwood Lane,2117 Lockwood Lane,7514,1626,168,205,Premier,Lassen,1,2,2,610
+2021,4,2003,19,Village 38,Springvale Lane,1814 Springvale Lane,9265,1739,194,436,Premier,Mendocino,1,2,2,610
+2020,2,2003,19,Village 38,Laurehurst Lane,1875 Laurelhurst Lane,5000,1715,194,436,Premier,Mendocino,1,2,2,512
+2021,8,2002,20,Village 38,Laurehurst Lane,1905 Laurehurst Lane,6142,1715,194,436,Premier,Mendocino,1,2,2,580
+2020,3,2003,19,Village 38,Stonecrest Lane,2106 Stonecrest Ln,7152,1739,194,436,Premier,Mendocino,1,2,2,549
+2020,11,2002,20,Village 38,Stonecrest Lane,2113 Stonecrest Lane,6255,1739,194,436,Premier,Mendocino,1,2,2,520
+2020,11,2001,21,Village 38,Picket Fence Lane,1139 Picket Fence Lane,7357,1791,207,449,Premier,Tahoe,1,2,2,555
+2019,11,2002,20,Village 38,Picket Fence Lane,1223 Picket Fence Lane,6782,1791,207,449,Premier,Tahoe,1,2,2,549
+2021,7,2002,20,Village 38,Ivy Arbor Lane,1232 Ivy Arbor Lane,7822,1791,207,449,Premier,Tahoe,1,2,2,655
+2020,5,2001,21,Village 38,Picket Fence Lane,1260 Picket Fence Lane,9395,1791,207,449,Premier,Tahoe,1,2,2,585
+2021,1,2002,20,Village 38,Picket Fence Lane,1307 Picket Fence Lane,8764,1791,207,449,Premier,Tahoe,1,2,2,580
+2021,6,2002,20,Village 38,Picket Fence Lane,1308 Picket Fence Lane,9108,2090,207,449,Premier,Tahoe,1,2,2,750
+2021,4,2003,19,Village 38,Stonecrest Lane,2084 Stonecrest Lane,7837,2066,207,449,Premier,Tahoe,1,2,2,715
+2021,1,2002,20,Village 38,Stonecrest Lane,2124 Stonecrest Lane,11761,1791,207,449,Premier,Tahoe,1,2,2,580
+2020,10,2002,20,Village 38,Pebblestone Lane,2158 Pebblestone Lane,7431,2091,207,449,Premier,Tahoe,1,2,2,640
+2021,12,2002,20,Village 38,Pebblestone Lane,2284 Pebblestone Lane,7065,1768,207,449,Premier,Tahoe,1,2,2,650
+2020,11,2003,19,Village 38,Pebblestone Lane,2305 Pebblestone Lane,8542,1791,207,449,Premier,Tahoe,1,2,2,613
+2021,5,2002,20,Village 38,Picket Fence Lane,1224 Picket Fence Lane,9021,2049,208,630,Premier,Annadel,1,3,2,780
+2021,7,2003,19,Village 38,Sundial Court,140 Sundial Court,11326,2073,208,630,Premier,Annadel,1,3,2,675
+2021,12,2002,20,Village 38,Picket Fence Lane,1440 Picket Fence Lane,9256,2073,208,630,Premier,Annadel,1,3,2,800
+2020,8,2002,20,Village 38,Briarcliff Lane,2015 Briarcliff Lane,10672,2073,208,630,Premier,Annadel,1,3,2,695
+2020,6,2002,20,Village 38,Stonecrest Lane,2068 Stonecrest Lane,17000,2073,208,630,Premier,Annadel,1,3,2,579
+2019,4,2002,20,Village 39,Stone Hearth Lane,1408 Stone Hearth Lane,9121,2081,266,420,Premier,Fremont,1,2,2,675
+2019,7,2002,20,Village 39,Stonehearth Lane,1409 Stonehearth Lane,8594,1813,207,449,Premier,Tahoe,1,2,2,615
+2021,12,2002,20,Village 39,Gatehouse Lane,2025 Gatehouse Lane,8976,1791,207,449,Premier,Tahoe,1,2,2,650
+2021,11,2002,20,Village 40,Geary Lane,672 Geary Lane,5881,1449,192,420,Premier,Almanor,1,2,2,519
+2020,12,2002,20,Village 40,Crocker Lane,1685 Crocker Lane,10900,1911,266,420,Premier,Fremont,1,2,2,583
+2021,7,2002,20,Village 40,Stone House Circle,2050 Stone House Circle,9421,1910,266,420,Premier,Fremont,1,2,2,730
+2019,5,2002,20,Village 40,Crocker Lane,1860 Crocker Lane,6420,1626,168,205,Premier,Lassen,1,2,2,469
+2021,7,2003,19,Village 40,Stone House Lane,1912 Stonehouse Lane,7658,1715,194,436,Premier,Mendocino,1,2,2,590
+2021,3,2003,19,Village 40,Stone House Lane,1688 Stone House Lane,8629,1791,207,449,Premier,Tahoe,1,2,2,649
+2019,6,2003,19,Village 40,Stone House Lane,1720 Stone House Lane,9395,2068,207,449,Premier,Tahoe,1,2,2,696
+2020,3,2002,20,Village 40,Stone House Lane,1743 Stone House Ln,9535,2068,207,449,Premier,Tahoe,1,2,2,615
+2021,5,2002,20,Village 40,Stone House Circle,2140 Stone House Circle,9335,1768,207,449,Premier,Tahoe,1,2,2,650
+2021,6,2002,20,Village 40,Hopkins Lane,710 Hopkins Lane,7882,1791,207,449,Premier,Tahoe,1,2,2,605
+2019,12,2006,16,Village 41,Snapdragon Lane,341 Snapdragon Lane,7653,1953,260,420,Premier,El Dorado,1,2,2,592
+2019,7,2005,17,Village 41,Snapdragon Place,109 Snapdragon Place,10219,1854,219,438,Premier,Plumas,1,2,2,634
+2019,12,2005,17,Village 41,Periwinkle Lane,1380 Periwinkle Lane,6734,1855,219,438,Premier,Plumas,1,2,2,541
+2020,3,2003,19,Village 41,Daylily Lane,327 Daylily Ln,8058,2251,219,438,Premier,Plumas,1,2,2,645
+2021,4,2005,17,Village 41,Periwinkle Lane,1416 Periwinkle Lane,7035,2390,254,436,Premier,San Mateo,1,2,2,739
+2020,1,2006,16,Village 41,Snapdragon Lane,317 Snapdragon Lane,10493,2390,254,436,Premier,San Mateo,1,2,2,616
+2020,8,2006,16,Village 41,Snapdragon Lane,317 Snapdragon Lane,10493,2390,254,436,Premier,San Mateo,1,2,2,620
+2020,11,2005,17,Village 41,Orchid Lane,620 Orchid Lane,8529,2372,254,436,Premier,San Mateo,1,2,2,706
+2021,6,2006,16,Village 41,Orchid Lane,659 Orchid Lane,7123,2390,254,436,Premier,San Mateo,1,2,2,845
+2019,7,2005,17,Village 43,Overland Lane,1035 Overland Lane,8646,2128,236,438,Premier,Ventura,1,3,2,710
